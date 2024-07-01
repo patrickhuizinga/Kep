@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kep.Explorer", "Kep.Explorer\Kep.Explorer.csproj", "{FFA97F56-4F97-4043-9C0B-4765D9D726E4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kep.Runner", "Kep.Runner\Kep.Runner.csproj", "{E53B91FE-C1FA-434C-8C90-572F857BF53B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kep.Test", "Kep.Test\Kep.Test.csproj", "{03A242D3-2CB8-4CD5-97C1-0BA6E599E7EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FFA97F56-4F97-4043-9C0B-4765D9D726E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFA97F56-4F97-4043-9C0B-4765D9D726E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFA97F56-4F97-4043-9C0B-4765D9D726E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFA97F56-4F97-4043-9C0B-4765D9D726E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E53B91FE-C1FA-434C-8C90-572F857BF53B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E53B91FE-C1FA-434C-8C90-572F857BF53B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E53B91FE-C1FA-434C-8C90-572F857BF53B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E53B91FE-C1FA-434C-8C90-572F857BF53B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03A242D3-2CB8-4CD5-97C1-0BA6E599E7EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03A242D3-2CB8-4CD5-97C1-0BA6E599E7EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03A242D3-2CB8-4CD5-97C1-0BA6E599E7EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03A242D3-2CB8-4CD5-97C1-0BA6E599E7EC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
