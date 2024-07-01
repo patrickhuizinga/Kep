@@ -1,0 +1,444 @@
+arcPath n 100 k 5 d 0.1 t 10 w False
+exit code: 137
+
+
+arcPath n 100 k 6 d 0.1 t 10 w False
+exit code: 137
+
+
+arcPath n 100 k 10 d 0.1 t 10 w False
+exit code: 137
+
+
+arcPath n 100 k 20 d 0.1 t 10 w False
+exit code: 137
+
+
+arcPath n 100 k 4 d 0.2 t 10 w False
+exit code: 137
+
+
+arcPath n 100 k 5 d 0.2 t 10 w False
+exit code: 137
+
+
+arcPath n 100 k 6 d 0.2 t 10 w False
+exit code: 137
+
+
+arcPath n 100 k 10 d 0.2 t 10 w False
+exit code: 137
+
+
+arcPath n 100 k 20 d 0.2 t 10 w False
+exit code: 137
+
+
+arcPath n 200 k 4 d 0.1 t 10 w False
+exit code: 137
+
+
+arcPath n 200 k 5 d 0.1 t 10 w False
+exit code: 137
+
+
+arcPath n 200 k 6 d 0.1 t 10 w False
+exit code: 137
+
+
+arcPath n 200 k 10 d 0.1 t 10 w False
+exit code: 137
+
+
+arcPath n 200 k 20 d 0.1 t 10 w False
+exit code: 137
+
+
+arcPath n 200 k 3 d 0.2 t 10 w False
+exit code: 137
+
+
+arcPath n 200 k 4 d 0.2 t 10 w False
+exit code: 137
+
+
+arcPath n 200 k 5 d 0.2 t 10 w False
+exit code: 137
+
+
+arcPath n 200 k 6 d 0.2 t 10 w False
+exit code: 137
+
+
+arcPath n 200 k 10 d 0.2 t 10 w False
+exit code: 137
+
+
+arcPath n 200 k 20 d 0.2 t 10 w False
+exit code: 137
+
+
+arcPath n 200 k 3 d 0.5 t 10 w False
+exit code: 137
+
+
+arcPath n 200 k 4 d 0.5 t 10 w False
+exit code: 137
+
+
+arcPath n 200 k 5 d 0.5 t 10 w False
+exit code: 137
+
+
+arcPath n 200 k 6 d 0.5 t 10 w False
+exit code: 137
+
+
+arcPath n 200 k 10 d 0.5 t 10 w False
+exit code: 137
+
+
+arcPath n 200 k 20 d 0.5 t 10 w False
+exit code: 137
+
+
+arcPath n 200 k 3 d 0.8 t 10 w False
+exit code: 137
+
+
+arcPath n 200 k 4 d 0.8 t 10 w False
+exit code: 137
+
+
+arcPath n 200 k 5 d 0.8 t 10 w False
+exit code: 137
+
+
+arcPath n 200 k 6 d 0.8 t 10 w False
+exit code: 137
+
+
+arcPath n 200 k 10 d 0.8 t 10 w False
+exit code: 137
+
+
+arcPath n 200 k 20 d 0.8 t 10 w False
+exit code: 137
+
+
+arcPath n 100 k 3 d 0.5 t 10 w False
+exit code: 137
+
+
+arcPath n 100 k 4 d 0.5 t 10 w False
+exit code: 137
+
+
+arcPath n 100 k 5 d 0.5 t 10 w False
+exit code: 137
+
+
+arcPath n 100 k 6 d 0.5 t 10 w False
+exit code: 137
+
+
+arcPath n 100 k 10 d 0.5 t 10 w False
+exit code: 137
+
+
+arcPath n 100 k 20 d 0.5 t 10 w False
+exit code: 137
+
+
+arcPath n 100 k 3 d 0.8 t 10 w False
+exit code: 137
+
+
+arcPath n 100 k 4 d 0.8 t 10 w False
+exit code: 137
+
+
+arcPath n 50 k 6 d 0.2 t 10 w True
+exit code: 137
+
+
+arcPath n 50 k 10 d 0.2 t 10 w True
+exit code: 137
+
+
+arcPath n 50 k 20 d 0.2 t 10 w True
+exit code: 137
+
+
+cycle n 50 k 20 d 0.1 t 10 w False
+exit code: 137
+
+
+cycle n 50 k 10 d 0.2 t 10 w False
+exit code: 137
+
+
+cycle n 50 k 20 d 0.2 t 10 w False
+exit code: 137
+
+
+cycle n 50 k 6 d 0.5 t 10 w False
+exit code: 137
+
+
+cycle n 50 k 10 d 0.5 t 10 w False
+exit code: 137
+
+
+cycle n 50 k 20 d 0.5 t 10 w False
+exit code: 137
+
+
+cycle n 50 k 6 d 0.8 t 10 w False
+exit code: 137
+
+
+cycle n 50 k 10 d 0.8 t 10 w False
+exit code: 137
+
+
+cycle n 50 k 20 d 0.8 t 10 w False
+exit code: 137
+
+
+cycle n 100 k 10 d 0.1 t 10 w False
+exit code: 137
+
+
+cycle n 100 k 20 d 0.1 t 10 w False
+exit code: 137
+
+
+cycle n 100 k 6 d 0.2 t 10 w False
+exit code: 137
+
+
+cycle n 100 k 10 d 0.2 t 10 w False
+exit code: 137
+
+
+cycle n 100 k 20 d 0.2 t 10 w False
+exit code: 137
+
+
+cycle n 100 k 5 d 0.5 t 10 w False
+exit code: 137
+
+
+cycle n 100 k 6 d 0.5 t 10 w False
+exit code: 137
+
+
+cycle n 100 k 10 d 0.5 t 10 w False
+exit code: 137
+
+
+cycle n 100 k 20 d 0.5 t 10 w False
+exit code: 137
+
+
+cycle n 100 k 5 d 0.8 t 10 w False
+exit code: 137
+
+
+cycle n 100 k 6 d 0.8 t 10 w False
+exit code: 137
+
+
+cycle n 100 k 10 d 0.8 t 10 w False
+exit code: 137
+
+
+cycle n 100 k 20 d 0.8 t 10 w False
+exit code: 137
+
+
+cycle n 200 k 6 d 0.1 t 10 w False
+exit code: 137
+
+
+cycle n 200 k 10 d 0.1 t 10 w False
+exit code: 137
+
+
+cycle n 200 k 5 d 0.2 t 10 w False
+exit code: 137
+
+
+cycle n 200 k 4 d 0.5 t 10 w False
+exit code: 137
+
+
+cycle n 50 k 10 d 0.2 t 10 w True
+exit code: 137
+
+
+cycle n 50 k 10 d 0.2 t 10 w True
+exit code: 137
+
+
+cycle n 50 k 6 d 0.5 t 10 w True
+exit code: 137
+
+
+cycle n 50 k 10 d 0.5 t 10 w True
+exit code: 137
+
+
+cycle n 50 k 6 d 0.8 t 10 w True
+exit code: 137
+
+
+cycle n 50 k 10 d 0.8 t 10 w True
+exit code: 137
+
+
+cycle n 100 k 10 d 0.1 t 10 w True
+exit code: 137
+
+
+cycle n 100 k 6 d 0.2 t 10 w True
+exit code: 137
+
+
+cycle n 100 k 10 d 0.2 t 10 w True
+exit code: 137
+
+
+cycle n 100 k 5 d 0.5 t 10 w True
+exit code: 137
+
+
+cycle n 100 k 6 d 0.5 t 10 w True
+exit code: 137
+
+
+cycle n 100 k 10 d 0.5 t 10 w True
+exit code: 137
+
+
+cycle n 100 k 5 d 0.8 t 10 w True
+exit code: 137
+
+
+cycle n 200 k 5 d 0.2 t 10 w True
+exit code: 137
+
+
+cycle n 200 k 4 d 0.5 t 10 w True
+exit code: 137
+
+
+cycle n 200 k 5 d 0.5 t 10 w True
+exit code: 137
+
+
+cycle n 200 k 4 d 0.8 t 10 w True
+exit code: 137
+
+
+cycle n 200 k 5 d 0.8 t 10 w True
+exit code: 137
+
+
+cycle n 500 k 5 d 0.1 t 10 w True
+exit code: 137
+
+
+cycle n 500 k 4 d 0.2 t 10 w True
+exit code: 137
+
+
+cycle n 500 k 5 d 0.2 t 10 w True
+exit code: 137
+
+
+cycle n 500 k 4 d 0.5 t 10 w True
+exit code: 137
+
+
+cycle n 500 k 5 d 0.5 t 10 w True
+exit code: 137
+
+
+cycle n 500 k 3 d 0.8 t 10 w True
+exit code: 137
+
+
+cycle n 500 k 4 d 0.8 t 10 w True
+exit code: 137
+
+
+cycle n 500 k 5 d 0.8 t 10 w True
+exit code: 137
+
+
+cycle n 1000 k 4 d 0.1 t 10 w True
+exit code: 137
+
+
+cycle n 1000 k 5 d 0.1 t 10 w True
+exit code: 137
+
+
+cycle n 1000 k 4 d 0.2 t 10 w True
+exit code: 137
+
+
+cycle n 1000 k 5 d 0.2 t 10 w True
+exit code: 137
+
+
+cycle n 1000 k 3 d 0.5 t 10 w True
+exit code: 137
+
+
+cycle n 1000 k 4 d 0.5 t 10 w True
+exit code: 137
+
+
+cycle n 1000 k 5 d 0.5 t 10 w True
+exit code: 137
+
+
+cycle n 1000 k 3 d 0.8 t 10 w True
+exit code: 137
+
+
+cycle n 1000 k 4 d 0.8 t 10 w True
+exit code: 137
+
+
+cycle n 1000 k 5 d 0.8 t 10 w True
+exit code: 137
+
+
+cycle n 500 k 4 d 0.2 t 10 w False
+exit code: 137
+
+
+cycle n 500 k 4 d 0.5 t 10 w False
+exit code: 137
+
+
+cycle n 50 k 15 d 0.1 t 10 w False
+exit code: 137
+
+
+edge n 500 k 15 d 0.2 t 10 w False
+exit code: 137
+
+
+edge n 500 k 15 d 0.5 t 10 w False
+exit code: 137
+
+
+edge n 500 k 15 d 0.8 t 10 w False
+exit code: 137
+
+
