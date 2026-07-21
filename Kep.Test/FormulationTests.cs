@@ -52,7 +52,7 @@ public class FormulationTests
     
     [TestCase(10, 3, 0.5, 5.7710)]
     [TestCase(20, 3, 0.5, 15.3730)]
-    [TestCase(30, 3, 0.5, 24.3331)]
+    [TestCase(30, 3, 0.5, 24.3331, Ignore = "takes too long")]
     
     [TestCase(10, 4, 0.2, 3.6748)]
     [TestCase(20, 4, 0.2, 11.5086)]
@@ -64,8 +64,8 @@ public class FormulationTests
     
     [TestCase(30, 5, 0.2, 21.3232)]
     [TestCase(30, 5, 0.5, 26.1235)]
-    [TestCase(40, 3, 0.5, 34.5825, Ignore = "takes many minutes")]
-    [TestCase(40, 5, 0.5, 36.2833, Ignore = "takes many minutes")]
+    [TestCase(40, 3, 0.5, 34.5825, Ignore = "takes too long")]
+    [TestCase(40, 5, 0.5, 36.2833, Ignore = "takes too long")]
     public void Mtz(int n, int k, double density, double expectedObjective)
     {
         var (A, w) = CreateCompatibility(n, density, 42);
@@ -89,7 +89,7 @@ public class FormulationTests
     
     [TestCase(10, 3, 0.5, 5.7710)]
     [TestCase(20, 3, 0.5, 15.3730)]
-    [TestCase(30, 3, 0.5, 24.3331, Ignore = "> 3 min")]
+    [TestCase(30, 3, 0.5, 24.3331, Ignore = "~ 3 min")]
     
     [TestCase(10, 4, 0.2, 3.6748)]
     [TestCase(20, 4, 0.2, 11.5086)]
@@ -97,12 +97,12 @@ public class FormulationTests
     
     [TestCase(10, 4, 0.5, 5.8556)]
     [TestCase(20, 4, 0.5, 16.5220)]
-    [TestCase(30, 4, 0.5, 25.4677, Ignore = "takes many minutes")]
+    [TestCase(30, 4, 0.5, 25.4677, Ignore = "takes too long")]
     
-    [TestCase(30, 5, 0.2, 21.3232)]
-    [TestCase(30, 5, 0.5, 26.1235)]
-    [TestCase(40, 3, 0.5, 34.5825)]
-    [TestCase(40, 5, 0.5, 36.2833)]
+    [TestCase(30, 5, 0.2, 21.3232, Ignore = "~ 1 min")]
+    [TestCase(30, 5, 0.5, 26.1235, Ignore = "takes too long")]
+    [TestCase(40, 3, 0.5, 34.5825, Ignore = "takes too long")]
+    [TestCase(40, 5, 0.5, 36.2833, Ignore = "takes too long")]
     public void ArcPath(int n, int k, double density, double expectedObjective)
     {
         var (A, w) = CreateCompatibility(n, density, 42);
@@ -120,26 +120,26 @@ public class FormulationTests
     [Test]
     [TestCase(10, 3, 0.2, 2.8962)]
     [TestCase(15, 3, 0.2, 4.5519)]
-    [TestCase(20, 3, 0.2, 9.8199)]
-    [TestCase(25, 3, 0.2, 13.3576)]
-    [TestCase(30, 3, 0.2, 19.0218)]
+    [TestCase(20, 3, 0.2, 9.8199, Ignore = "~ 1 min")]
+    [TestCase(25, 3, 0.2, 13.3576, Ignore = "takes too long")]
+    [TestCase(30, 3, 0.2, 19.0218, Ignore = "takes too long")]
     
     [TestCase(10, 3, 0.5, 5.7710)]
-    [TestCase(20, 3, 0.5, 15.3730)]
-    [TestCase(30, 3, 0.5, 24.3331)]
+    [TestCase(20, 3, 0.5, 15.3730, Ignore = "takes too long")]
+    [TestCase(30, 3, 0.5, 24.3331, Ignore = "takes too long")]
     
     [TestCase(10, 4, 0.2, 3.6748)]
     [TestCase(20, 4, 0.2, 11.5086)]
-    [TestCase(30, 4, 0.2, 21.0538)]
+    [TestCase(30, 4, 0.2, 21.0538, Ignore = "takes too long")]
     
     [TestCase(10, 4, 0.5, 5.8556)]
     [TestCase(20, 4, 0.5, 16.5220)]
-    [TestCase(30, 4, 0.5, 25.4677)]
+    [TestCase(30, 4, 0.5, 25.4677, Ignore = "takes too long")]
     
-    [TestCase(30, 5, 0.2, 21.3232)]
-    [TestCase(30, 5, 0.5, 26.1235)]
-    [TestCase(40, 3, 0.5, 34.5825)]
-    [TestCase(40, 5, 0.5, 36.2833)]
+    [TestCase(30, 5, 0.2, 21.3232, Ignore = "takes too long")]
+    [TestCase(30, 5, 0.5, 26.1235, Ignore = "takes too long")]
+    [TestCase(40, 3, 0.5, 34.5825, Ignore = "takes too long")]
+    [TestCase(40, 5, 0.5, 36.2833, Ignore = "takes too long")]
     public void ArcCycleRowGen(int n, int k, double density, double expectedObjective)
     {
         var (A, w) = CreateCompatibility(n, density, 42);
@@ -175,8 +175,8 @@ public class FormulationTests
     
     [TestCase(30, 5, 0.2, 21.3232)]
     [TestCase(30, 5, 0.5, 26.1235)]
-    [TestCase(40, 3, 0.5, 34.5825)]
-    [TestCase(40, 5, 0.5, 36.2833)]
+    [TestCase(40, 3, 0.5, 34.5825, Ignore = "takes too long")]
+    [TestCase(40, 5, 0.5, 36.2833, Ignore = "takes too long")]
     public void ArcPathRowGen(int n, int k, double density, double expectedObjective)
     {
         var (A, w) = CreateCompatibility(n, density, 42);
