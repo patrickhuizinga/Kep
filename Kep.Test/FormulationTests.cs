@@ -6,6 +6,8 @@ namespace Kep.Test;
 
 public class FormulationTests
 {
+    private const double Epsilon = 0.0001;
+
     [Test]
     [TestCase(10, 3, 0.2, 2.8962)]
     [TestCase(15, 3, 0.2, 4.5519)]
@@ -40,7 +42,7 @@ public class FormulationTests
         var objective = result.Objective;
         
         Console.WriteLine("objective: " + objective);
-        Assert.That(objective, Is.EqualTo(expectedObjective).Within(0.0001));
+        Assert.That(objective, Is.EqualTo(expectedObjective).Within(Epsilon));
     }
 
     [Test]
@@ -77,7 +79,7 @@ public class FormulationTests
         var objective = result.Objective;
         
         Console.WriteLine("objective: " + objective);
-        Assert.That(objective, Is.EqualTo(expectedObjective).Within(0.0001));
+        Assert.That(objective, Is.EqualTo(expectedObjective).Within(Epsilon));
     }
 
     [Test]
@@ -114,7 +116,7 @@ public class FormulationTests
         var objective = result.Objective;
         
         Console.WriteLine("objective: " + objective);
-        Assert.That(objective, Is.EqualTo(expectedObjective).Within(0.0001));
+        Assert.That(objective, Is.EqualTo(expectedObjective).Within(Epsilon));
     }
 
     [Test]
@@ -151,7 +153,7 @@ public class FormulationTests
         var objective = result.Objective;
         
         Console.WriteLine("objective: " + objective);
-        Assert.That(objective, Is.EqualTo(expectedObjective).Within(0.0001));
+        Assert.That(objective, Is.EqualTo(expectedObjective).Within(Epsilon));
     }
 
     [Test]
@@ -188,7 +190,7 @@ public class FormulationTests
         var objective = result.Objective;
         
         Console.WriteLine("objective: " + objective);
-        Assert.That(objective, Is.EqualTo(expectedObjective).Within(0.0001));
+        Assert.That(objective, Is.EqualTo(expectedObjective).Within(Epsilon));
     }
 
     [Test]
@@ -212,8 +214,21 @@ public class FormulationTests
     
     [TestCase(30, 5, 0.2, 21.3232)]
     [TestCase(30, 5, 0.5, 26.1235)]
+    
     [TestCase(40, 3, 0.5, 34.5825)]
     [TestCase(40, 5, 0.5, 36.2833)]
+    [TestCase(40, 3, 0.2, 28.1473)]
+    [TestCase(40, 5, 0.2, 31.6779)]
+    
+    [TestCase(50, 3, 0.1, 23.7458)]
+    [TestCase(50, 5, 0.1, 31.2072)]    
+
+    [TestCase(99, 3, 0.1, 61.5787)]
+    [TestCase(99, 4, 0.1, 72.5247)]
+    [TestCase(99, 5, 0.1, 77.3072)]
+    
+    [TestCase(99, 3, 0.3, 87.8495)]
+    [TestCase(99, 4, 0.3, 90.0982)]
     public void Cycle(int n, int k, double density, double expectedObjective)
     {
         var (A, w) = CreateCompatibility(n, density, 42);
@@ -225,7 +240,62 @@ public class FormulationTests
         var objective = result.Objective;
         
         Console.WriteLine("objective: " + objective);
-        Assert.That(objective, Is.EqualTo(expectedObjective).Within(0.0001));
+        Assert.That(objective, Is.EqualTo(expectedObjective).Within(Epsilon));
+    }
+
+    [Test]
+    [TestCase(10, 3, 0.2, 2.8962)]
+    [TestCase(15, 3, 0.2, 4.5519)]
+    [TestCase(20, 3, 0.2, 9.8199)]
+    [TestCase(25, 3, 0.2, 13.3576)]
+    [TestCase(30, 3, 0.2, 19.0218)]
+    
+    [TestCase(10, 3, 0.5, 5.7710)]
+    [TestCase(20, 3, 0.5, 15.3730)]
+    [TestCase(30, 3, 0.5, 24.3331)]
+    
+    [TestCase(10, 4, 0.2, 3.6748)]
+    [TestCase(20, 4, 0.2, 11.5086)]
+    [TestCase(30, 4, 0.2, 21.0538)]
+    
+    [TestCase(10, 4, 0.5, 5.8556)]
+    [TestCase(20, 4, 0.5, 16.5220)]
+    [TestCase(30, 4, 0.5, 25.4677)]
+    
+    [TestCase(30, 5, 0.2, 21.3232)]
+    [TestCase(30, 5, 0.5, 26.1235)]
+    
+    [TestCase(40, 3, 0.5, 34.5825)]
+    [TestCase(40, 5, 0.5, 36.2833)]
+    [TestCase(40, 3, 0.2, 28.1473)]
+    [TestCase(40, 5, 0.2, 31.6779)]
+    
+    [TestCase(50, 3, 0.1, 23.7458)]
+    [TestCase(50, 5, 0.1, 31.2072)]
+
+    [TestCase(75, 3, 0.1, 38.8900)]
+    [TestCase(75, 4, 0.1, 49.1471)]
+    [TestCase(75, 5, 0.1, 54.0670)]
+
+    [TestCase(99, 3, 0.1, 61.5787)]
+    [TestCase(99, 4, 0.1, 72.5247)]//, Ignore = "~20 seconds")]
+    [TestCase(99, 5, 0.1, 77.3072, Ignore = "takes too long")]
+    
+    [TestCase(99, 3, 0.3, 87.8495)]
+    [TestCase(99, 4, 0.3, 90.0982)]//, Ignore = "~40 seconds")]
+    public void Glorie2014(int n, int k, double density, double expectedObjective)
+    {
+        var (A, w) = CreateCompatibility(n, density, 42);
+        
+        var env = new GRBEnv();
+        env.Start();
+        var formulation = new MultiStage.Glorie2014.Formulation(k);
+        var result = formulation.Run(env, A, w);
+        var objective = result.Objective;
+        
+        Console.WriteLine("objective: " + objective);
+        Assert.That(objective, Is.EqualTo(expectedObjective).Within(Epsilon));
+        Console.WriteLine("minimizes: " + MultiStage.Glorie2014.MasterProblem.MinimizeCount);
     }
 
     private static (bool[,] A, double[,] w) CreateCompatibility(int n, double density, int seed)

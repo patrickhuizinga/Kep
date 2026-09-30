@@ -1,0 +1,665 @@
+Kep.Test.TwoStageProblemTest.MipSecondStage99(3,2,3,52)
+
+solution  0
+MIP 72     expected: 27.47
+  scenario expected: 50.056
+  scenario expected: 47.902
+  scenario expected: 49.848
+  scenario expected: 48.703
+  scenario expected: 45.125
+  scenario expected: 44.817
+  scenario expected: 48.381
+  scenario expected: 43.486
+  scenario expected: 49.141
+  scenario expected: 48.685
+  scenario expected: 48.538
+  scenario expected: 49.354
+  scenario expected: 42.566
+  scenario expected: 45.168
+  scenario expected: 50.338
+  scenario expected: 49.307
+  scenario expected: 44.824
+  scenario expected: 49.479
+  scenario expected: 50.960
+  scenario expected: 47.107
+  scenario expected: 47.002
+  scenario expected: 48.148
+  scenario expected: 49.687
+  scenario expected: 50.638
+  scenario expected: 52.195
+  scenario expected: 46.906
+  scenario expected: 50.699
+  scenario expected: 44.780
+  scenario expected: 45.114
+  scenario expected: 49.531
+  scenario expected: 49.482
+  scenario expected: 50.882
+  scenario expected: 48.934
+  scenario expected: 45.108
+  scenario expected: 44.554
+  scenario expected: 41.923
+  scenario expected: 46.116
+  scenario expected: 44.932
+  scenario expected: 45.537
+  scenario expected: 44.579
+  scenario expected: 47.799
+  scenario expected: 45.793
+  scenario expected: 46.564
+  scenario expected: 46.577
+  scenario expected: 51.343
+  scenario expected: 46.742
+  scenario expected: 50.292
+  scenario expected: 42.200
+  scenario expected: 47.505
+  scenario expected: 50.407
+  scenario expected: 51.389
+  scenario expected: 44.745
+  scenario expected: 43.847
+  scenario expected: 46.509
+  scenario expected: 48.016
+  scenario expected: 47.091
+  scenario expected: 46.443
+  scenario expected: 47.247
+  scenario expected: 47.585
+  scenario expected: 46.243
+  scenario expected: 44.174
+  scenario expected: 45.465
+  scenario expected: 45.584
+  scenario expected: 44.861
+  scenario expected: 50.987
+  scenario expected: 46.178
+  scenario expected: 49.160
+  scenario expected: 46.316
+  scenario expected: 44.715
+  scenario expected: 48.269
+  scenario expected: 47.183
+  scenario expected: 48.043
+  scenario expected: 46.494
+  scenario expected: 48.772
+  scenario expected: 47.764
+  scenario expected: 49.196
+  scenario expected: 49.992
+  scenario expected: 45.784
+  scenario expected: 47.537
+  scenario expected: 54.073
+  scenario expected: 48.800
+  scenario expected: 49.381
+  scenario expected: 47.366
+  scenario expected: 46.518
+  scenario expected: 52.197
+  scenario expected: 46.035
+  scenario expected: 43.581
+  scenario expected: 48.533
+  scenario expected: 46.622
+  scenario expected: 52.559
+  scenario expected: 48.309
+  scenario expected: 50.814
+  scenario expected: 44.413
+  scenario expected: 49.516
+  scenario expected: 48.629
+  scenario expected: 47.619
+  scenario expected: 46.510
+  scenario expected: 43.426
+  scenario expected: 49.662
+  scenario expected: 47.305
+                avg: 47.532
+
+solution  1
+MIP 72     expected: 27.31
+  scenario expected: 45.509
+  scenario expected: 48.814
+  scenario expected: 43.856
+  scenario expected: 46.183
+  scenario expected: 48.864
+  scenario expected: 49.954
+  scenario expected: 43.601
+  scenario expected: 47.779
+  scenario expected: 47.449
+  scenario expected: 49.131
+  scenario expected: 48.135
+  scenario expected: 48.091
+  scenario expected: 41.973
+  scenario expected: 50.410
+  scenario expected: 46.488
+  scenario expected: 50.153
+  scenario expected: 49.336
+  scenario expected: 51.401
+  scenario expected: 48.371
+  scenario expected: 47.127
+  scenario expected: 45.998
+  scenario expected: 46.533
+  scenario expected: 47.166
+  scenario expected: 48.491
+  scenario expected: 48.055
+  scenario expected: 46.862
+  scenario expected: 50.077
+  scenario expected: 44.402
+  scenario expected: 50.159
+  scenario expected: 51.397
+  scenario expected: 47.515
+  scenario expected: 47.376
+  scenario expected: 48.602
+  scenario expected: 48.549
+  scenario expected: 53.045
+  scenario expected: 51.613
+  scenario expected: 51.841
+  scenario expected: 45.966
+  scenario expected: 48.894
+  scenario expected: 49.995
+  scenario expected: 49.019
+  scenario expected: 48.569
+  scenario expected: 49.948
+  scenario expected: 46.063
+  scenario expected: 49.725
+  scenario expected: 47.133
+  scenario expected: 49.234
+  scenario expected: 46.490
+  scenario expected: 47.228
+  scenario expected: 46.400
+  scenario expected: 45.026
+  scenario expected: 48.537
+  scenario expected: 43.444
+  scenario expected: 46.353
+  scenario expected: 51.753
+  scenario expected: 52.678
+  scenario expected: 50.410
+  scenario expected: 44.683
+  scenario expected: 46.021
+  scenario expected: 45.075
+  scenario expected: 45.515
+  scenario expected: 46.455
+  scenario expected: 47.667
+  scenario expected: 48.986
+  scenario expected: 47.150
+  scenario expected: 47.289
+  scenario expected: 46.771
+  scenario expected: 48.545
+  scenario expected: 47.200
+  scenario expected: 42.721
+  scenario expected: 46.544
+  scenario expected: 45.751
+  scenario expected: 51.515
+  scenario expected: 48.486
+  scenario expected: 51.263
+  scenario expected: 49.008
+  scenario expected: 50.930
+  scenario expected: 45.020
+  scenario expected: 49.103
+  scenario expected: 49.355
+  scenario expected: 46.381
+  scenario expected: 44.267
+  scenario expected: 44.719
+  scenario expected: 49.504
+  scenario expected: 53.702
+  scenario expected: 45.431
+  scenario expected: 45.698
+  scenario expected: 48.077
+  scenario expected: 46.867
+  scenario expected: 45.681
+  scenario expected: 49.501
+  scenario expected: 45.443
+  scenario expected: 45.652
+  scenario expected: 47.043
+  scenario expected: 49.678
+  scenario expected: 47.177
+  scenario expected: 46.926
+  scenario expected: 49.897
+  scenario expected: 48.691
+  scenario expected: 47.532
+                avg: 47.821
+
+solution  2
+MIP 72     expected: 26.14
+  scenario expected: 46.081
+  scenario expected: 45.544
+  scenario expected: 48.203
+  scenario expected: 47.726
+  scenario expected: 44.666
+  scenario expected: 45.020
+  scenario expected: 46.375
+  scenario expected: 47.186
+  scenario expected: 44.338
+  scenario expected: 44.986
+  scenario expected: 45.832
+  scenario expected: 46.939
+  scenario expected: 47.477
+  scenario expected: 46.696
+  scenario expected: 47.676
+  scenario expected: 48.034
+  scenario expected: 45.951
+  scenario expected: 41.535
+  scenario expected: 42.866
+  scenario expected: 43.426
+  scenario expected: 45.544
+  scenario expected: 47.789
+  scenario expected: 44.917
+  scenario expected: 47.311
+  scenario expected: 45.454
+  scenario expected: 45.191
+  scenario expected: 45.934
+  scenario expected: 43.124
+  scenario expected: 43.244
+  scenario expected: 41.825
+  scenario expected: 47.698
+  scenario expected: 44.944
+  scenario expected: 46.116
+  scenario expected: 48.405
+  scenario expected: 48.416
+  scenario expected: 42.327
+  scenario expected: 51.050
+  scenario expected: 47.290
+  scenario expected: 48.108
+  scenario expected: 44.860
+  scenario expected: 44.864
+  scenario expected: 45.573
+  scenario expected: 43.442
+  scenario expected: 51.113
+  scenario expected: 48.567
+  scenario expected: 44.985
+  scenario expected: 43.742
+  scenario expected: 47.230
+  scenario expected: 49.619
+  scenario expected: 45.787
+  scenario expected: 49.094
+  scenario expected: 43.896
+  scenario expected: 47.360
+  scenario expected: 46.615
+  scenario expected: 46.843
+  scenario expected: 42.224
+  scenario expected: 42.935
+  scenario expected: 44.211
+  scenario expected: 48.583
+                avg: 27.128
+
+solution  3
+MIP 72     expected: 27.47
+                avg:  0.000
+
+solution  4
+MIP 72     expected: 24.46
+                avg:  0.000
+
+solution  5
+MIP 72     expected: 28.90
+                avg:  0.000
+
+solution  6
+MIP 72     expected: 28.90
+                avg:  0.000
+
+solution  7
+MIP 72     expected: 28.90
+                avg:  0.000
+
+solution  8
+MIP 72     expected: 30.76
+                avg:  0.000
+
+solution  9
+MIP 72     expected: 26.39
+                avg:  0.000
+
+solution 10
+MIP 72     expected: 30.36
+                avg:  0.000
+
+solution 11
+MIP 72     expected: 30.36
+                avg:  0.000
+
+solution 12
+MIP 72     expected: 29.67
+                avg:  0.000
+
+solution 13
+MIP 72     expected: 29.67
+                avg:  0.000
+
+solution 14
+MIP 72     expected: 31.49
+                avg:  0.000
+
+solution 15
+MIP 72     expected: 26.14
+                avg:  0.000
+
+solution 16
+MIP 72     expected: 33.13
+                avg:  0.000
+
+solution 17
+MIP 72     expected: 34.01
+                avg:  0.000
+
+solution 18
+MIP 72     expected: 33.00
+                avg:  0.000
+
+solution 19
+MIP 72     expected: 33.00
+                avg:  0.000
+
+solution 20
+MIP 72     expected: 33.36
+                avg:  0.000
+
+solution 21
+MIP 72     expected: 31.96
+                avg:  0.000
+
+solution 22
+MIP 72     expected: 27.03
+                avg:  0.000
+
+solution 23
+MIP 72     expected: 31.00
+                avg:  0.000
+
+solution 24
+MIP 72     expected: 33.32
+                avg:  0.000
+
+solution 25
+MIP 72     expected: 33.32
+                avg:  0.000
+
+solution 26
+MIP 72     expected: 33.32
+                avg:  0.000
+
+solution 27
+MIP 72     expected: 33.00
+                avg:  0.000
+
+solution 28
+MIP 72     expected: 33.00
+                avg:  0.000
+
+solution 29
+MIP 72     expected: 33.00
+                avg:  0.000
+
+solution 30
+MIP 72     expected: 32.37
+                avg:  0.000
+
+solution 31
+MIP 72     expected: 33.00
+                avg:  0.000
+
+solution 32
+MIP 72     expected: 33.00
+                avg:  0.000
+
+solution 33
+MIP 72     expected: 32.60
+                avg:  0.000
+
+solution 34
+MIP 72     expected: 29.28
+                avg:  0.000
+
+solution 35
+MIP 72     expected: 31.01
+                avg:  0.000
+
+solution 36
+MIP 72     expected: 30.86
+                avg:  0.000
+
+solution 37
+MIP 72     expected: 32.09
+                avg:  0.000
+
+solution 38
+MIP 72     expected: 31.75
+                avg:  0.000
+
+solution 39
+MIP 72     expected: 32.07
+                avg:  0.000
+
+solution 40
+MIP 72     expected: 31.42
+                avg:  0.000
+
+solution 41
+MIP 72     expected: 30.98
+                avg:  0.000
+
+solution 42
+MIP 72     expected: 30.48
+                avg:  0.000
+
+solution 43
+MIP 72     expected: 30.48
+                avg:  0.000
+
+solution 44
+MIP 72     expected: 30.36
+                avg:  0.000
+
+solution 45
+MIP 72     expected: 30.36
+                avg:  0.000
+
+solution 46
+MIP 72     expected: 30.36
+                avg:  0.000
+
+solution 47
+MIP 72     expected: 30.61
+                avg:  0.000
+
+solution 48
+MIP 72     expected: 30.61
+                avg:  0.000
+
+solution 49
+MIP 72     expected: 31.12
+                avg:  0.000
+
+solution 50
+MIP 72     expected: 31.21
+                avg:  0.000
+
+solution 51
+MIP 72     expected: 31.57
+                avg:  0.000
+
+solution 52
+MIP 72     expected: 31.21
+                avg:  0.000
+
+solution 53
+MIP 72     expected: 31.06
+                avg:  0.000
+
+solution 54
+MIP 72     expected: 30.74
+                avg:  0.000
+
+solution 55
+MIP 72     expected: 30.61
+                avg:  0.000
+
+solution 56
+MIP 72     expected: 29.07
+                avg:  0.000
+
+solution 57
+MIP 72     expected: 30.16
+                avg:  0.000
+
+solution 58
+MIP 72     expected: 30.21
+                avg:  0.000
+
+solution 59
+MIP 72     expected: 30.21
+                avg:  0.000
+
+solution 60
+MIP 72     expected: 30.48
+                avg:  0.000
+
+solution 61
+MIP 72     expected: 30.48
+                avg:  0.000
+
+solution 62
+MIP 72     expected: 30.89
+                avg:  0.000
+
+solution 63
+MIP 72     expected: 30.80
+                avg:  0.000
+
+solution 64
+MIP 72     expected: 31.45
+                avg:  0.000
+
+solution 65
+MIP 72     expected: 30.80
+                avg:  0.000
+
+solution 66
+MIP 72     expected: 30.41
+                avg:  0.000
+
+solution 67
+MIP 72     expected: 30.41
+                avg:  0.000
+
+solution 68
+MIP 72     expected: 30.77
+                avg:  0.000
+
+solution 69
+MIP 72     expected: 31.38
+                avg:  0.000
+
+solution 70
+MIP 72     expected: 32.93
+                avg:  0.000
+
+solution 71
+MIP 72     expected: 33.91
+                avg:  0.000
+
+solution 72
+MIP 72     expected: 32.12
+                avg:  0.000
+
+solution 73
+MIP 72     expected: 33.53
+                avg:  0.000
+
+solution 74
+MIP 72     expected: 33.53
+                avg:  0.000
+
+solution 75
+MIP 72     expected: 33.40
+                avg:  0.000
+
+solution 76
+MIP 72     expected: 31.30
+                avg:  0.000
+
+solution 77
+MIP 72     expected: 29.64
+                avg:  0.000
+
+solution 78
+MIP 72     expected: 30.72
+                avg:  0.000
+
+solution 79
+MIP 72     expected: 31.31
+                avg:  0.000
+
+solution 80
+MIP 72     expected: 31.59
+                avg:  0.000
+
+solution 81
+MIP 72     expected: 31.44
+                avg:  0.000
+
+solution 82
+MIP 72     expected: 31.08
+                avg:  0.000
+
+solution 83
+MIP 72     expected: 31.08
+                avg:  0.000
+
+solution 84
+MIP 72     expected: 31.02
+                avg:  0.000
+
+solution 85
+MIP 72     expected: 31.46
+                avg:  0.000
+
+solution 86
+MIP 72     expected: 30.66
+                avg:  0.000
+
+solution 87
+MIP 72     expected: 29.03
+                avg:  0.000
+
+solution 88
+MIP 72     expected: 30.21
+                avg:  0.000
+
+solution 89
+MIP 72     expected: 31.99
+                avg:  0.000
+
+solution 90
+MIP 72     expected: 29.69
+                avg:  0.000
+
+solution 91
+MIP 72     expected: 29.69
+                avg:  0.000
+
+solution 92
+MIP 72     expected: 28.53
+                avg:  0.000
+
+solution 93
+MIP 72     expected: 28.95
+                avg:  0.000
+
+solution 94
+MIP 72     expected: 29.15
+                avg:  0.000
+
+solution 95
+MIP 72     expected: 29.23
+                avg:  0.000
+
+solution 96
+MIP 72     expected: 29.23
+                avg:  0.000
+
+solution 97
+MIP 72     expected: 28.77
+                avg:  0.000
+
+solution 98
+MIP 72     expected: 28.11
+                avg:  0.000
+
+solution 99
+MIP 72     expected: 27.95
+                avg:  0.000
+
+mean expected: 30.697241249999998
+
+cycle count: 31009
+best solution: 47.8209298993431

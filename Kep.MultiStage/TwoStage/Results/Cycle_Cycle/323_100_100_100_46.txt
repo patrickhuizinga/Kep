@@ -1,0 +1,2662 @@
+Kep.Test.TwoStageProblemTest.MipSecondStage99(3,2,3,46)
+
+solution  0
+MIP 66     expected: 31.30
+  scenario expected: 44.003
+  scenario expected: 40.778
+  scenario expected: 47.489
+  scenario expected: 42.767
+  scenario expected: 40.479
+  scenario expected: 43.173
+  scenario expected: 43.036
+  scenario expected: 40.583
+  scenario expected: 44.288
+  scenario expected: 44.098
+  scenario expected: 43.543
+  scenario expected: 40.093
+  scenario expected: 42.799
+  scenario expected: 39.703
+  scenario expected: 41.783
+  scenario expected: 41.178
+  scenario expected: 37.575
+  scenario expected: 44.442
+  scenario expected: 38.007
+  scenario expected: 39.364
+  scenario expected: 39.404
+  scenario expected: 41.508
+  scenario expected: 38.398
+  scenario expected: 42.799
+  scenario expected: 39.898
+  scenario expected: 46.858
+  scenario expected: 42.764
+  scenario expected: 39.896
+  scenario expected: 40.307
+  scenario expected: 42.130
+  scenario expected: 39.850
+  scenario expected: 48.177
+  scenario expected: 42.926
+  scenario expected: 41.948
+  scenario expected: 43.294
+  scenario expected: 41.301
+  scenario expected: 44.766
+  scenario expected: 44.345
+  scenario expected: 39.564
+  scenario expected: 47.617
+  scenario expected: 39.012
+  scenario expected: 41.308
+  scenario expected: 41.602
+  scenario expected: 39.700
+  scenario expected: 38.782
+  scenario expected: 42.661
+  scenario expected: 43.755
+  scenario expected: 41.662
+  scenario expected: 41.897
+  scenario expected: 41.558
+  scenario expected: 41.752
+  scenario expected: 41.618
+  scenario expected: 45.696
+  scenario expected: 41.021
+  scenario expected: 42.174
+  scenario expected: 42.247
+  scenario expected: 40.303
+  scenario expected: 44.555
+  scenario expected: 42.808
+  scenario expected: 39.368
+  scenario expected: 43.271
+  scenario expected: 39.547
+  scenario expected: 40.808
+  scenario expected: 45.826
+  scenario expected: 46.708
+  scenario expected: 46.672
+  scenario expected: 40.565
+  scenario expected: 39.182
+  scenario expected: 39.714
+  scenario expected: 40.881
+  scenario expected: 41.160
+  scenario expected: 41.089
+  scenario expected: 44.988
+  scenario expected: 39.853
+  scenario expected: 42.192
+  scenario expected: 42.643
+  scenario expected: 39.933
+  scenario expected: 42.508
+  scenario expected: 45.449
+  scenario expected: 42.556
+  scenario expected: 43.838
+  scenario expected: 43.366
+  scenario expected: 42.612
+  scenario expected: 42.803
+  scenario expected: 48.877
+  scenario expected: 41.453
+  scenario expected: 40.298
+  scenario expected: 43.727
+  scenario expected: 42.722
+  scenario expected: 43.203
+  scenario expected: 43.120
+  scenario expected: 44.771
+  scenario expected: 42.440
+  scenario expected: 41.197
+  scenario expected: 41.213
+  scenario expected: 41.025
+  scenario expected: 41.317
+  scenario expected: 40.453
+  scenario expected: 40.137
+  scenario expected: 41.588
+                avg: 42.161
+
+solution  1
+MIP 66     expected: 29.94
+  scenario expected: 42.961
+  scenario expected: 39.686
+  scenario expected: 44.745
+  scenario expected: 40.666
+  scenario expected: 47.563
+  scenario expected: 40.136
+  scenario expected: 44.052
+  scenario expected: 41.560
+  scenario expected: 39.513
+  scenario expected: 39.764
+  scenario expected: 41.447
+  scenario expected: 43.418
+  scenario expected: 40.598
+  scenario expected: 41.968
+  scenario expected: 40.956
+  scenario expected: 42.436
+  scenario expected: 40.519
+  scenario expected: 39.893
+  scenario expected: 38.128
+  scenario expected: 44.309
+  scenario expected: 40.895
+  scenario expected: 38.926
+  scenario expected: 43.067
+  scenario expected: 43.121
+  scenario expected: 39.860
+  scenario expected: 46.033
+  scenario expected: 41.740
+  scenario expected: 43.526
+  scenario expected: 47.527
+  scenario expected: 44.229
+  scenario expected: 43.158
+  scenario expected: 41.578
+  scenario expected: 38.162
+  scenario expected: 41.004
+  scenario expected: 40.391
+  scenario expected: 39.211
+  scenario expected: 43.895
+  scenario expected: 45.241
+  scenario expected: 40.997
+  scenario expected: 42.070
+  scenario expected: 42.119
+  scenario expected: 43.201
+  scenario expected: 44.477
+  scenario expected: 45.927
+  scenario expected: 41.264
+  scenario expected: 41.098
+  scenario expected: 41.387
+  scenario expected: 43.187
+  scenario expected: 44.937
+  scenario expected: 42.977
+  scenario expected: 43.949
+  scenario expected: 43.138
+  scenario expected: 40.124
+  scenario expected: 45.339
+  scenario expected: 45.021
+  scenario expected: 43.956
+  scenario expected: 43.150
+  scenario expected: 40.819
+  scenario expected: 44.246
+  scenario expected: 43.803
+  scenario expected: 40.082
+  scenario expected: 42.588
+  scenario expected: 42.488
+  scenario expected: 39.992
+  scenario expected: 43.902
+  scenario expected: 42.096
+  scenario expected: 41.490
+  scenario expected: 45.877
+  scenario expected: 47.675
+  scenario expected: 42.258
+  scenario expected: 46.955
+  scenario expected: 43.620
+  scenario expected: 42.043
+  scenario expected: 45.259
+  scenario expected: 41.759
+  scenario expected: 36.787
+  scenario expected: 45.594
+  scenario expected: 40.788
+  scenario expected: 45.464
+  scenario expected: 38.233
+  scenario expected: 49.071
+  scenario expected: 44.647
+  scenario expected: 38.695
+  scenario expected: 41.613
+  scenario expected: 41.193
+  scenario expected: 43.365
+  scenario expected: 44.049
+  scenario expected: 44.812
+  scenario expected: 44.199
+  scenario expected: 40.058
+  scenario expected: 43.410
+  scenario expected: 39.248
+  scenario expected: 42.492
+  scenario expected: 41.529
+  scenario expected: 42.762
+  scenario expected: 40.900
+  scenario expected: 40.081
+  scenario expected: 46.978
+  scenario expected: 40.764
+  scenario expected: 41.480
+                avg: 42.494
+
+solution  2
+MIP 66     expected: 27.11
+  scenario expected: 43.703
+  scenario expected: 42.811
+  scenario expected: 39.175
+  scenario expected: 45.225
+  scenario expected: 44.375
+  scenario expected: 46.548
+  scenario expected: 40.736
+  scenario expected: 46.438
+  scenario expected: 45.378
+  scenario expected: 43.050
+  scenario expected: 40.057
+  scenario expected: 45.462
+  scenario expected: 42.175
+  scenario expected: 42.011
+  scenario expected: 42.446
+  scenario expected: 39.410
+  scenario expected: 39.904
+  scenario expected: 41.176
+  scenario expected: 41.894
+  scenario expected: 44.706
+  scenario expected: 40.293
+  scenario expected: 41.596
+  scenario expected: 41.258
+  scenario expected: 42.000
+  scenario expected: 41.480
+  scenario expected: 39.211
+  scenario expected: 46.798
+  scenario expected: 43.453
+  scenario expected: 44.609
+  scenario expected: 42.489
+  scenario expected: 41.521
+  scenario expected: 42.654
+  scenario expected: 39.455
+  scenario expected: 42.043
+  scenario expected: 42.442
+  scenario expected: 45.167
+  scenario expected: 42.382
+  scenario expected: 45.723
+  scenario expected: 42.228
+  scenario expected: 43.006
+  scenario expected: 42.096
+  scenario expected: 42.653
+  scenario expected: 42.702
+  scenario expected: 43.417
+  scenario expected: 41.742
+  scenario expected: 43.908
+  scenario expected: 39.370
+  scenario expected: 39.633
+  scenario expected: 43.630
+  scenario expected: 39.297
+  scenario expected: 42.500
+  scenario expected: 40.515
+  scenario expected: 42.158
+  scenario expected: 38.172
+  scenario expected: 45.735
+  scenario expected: 41.766
+  scenario expected: 41.677
+  scenario expected: 38.785
+  scenario expected: 42.184
+  scenario expected: 43.143
+  scenario expected: 39.593
+  scenario expected: 42.565
+  scenario expected: 45.073
+  scenario expected: 41.541
+  scenario expected: 42.133
+  scenario expected: 41.905
+  scenario expected: 39.970
+  scenario expected: 39.867
+  scenario expected: 44.813
+  scenario expected: 39.298
+  scenario expected: 43.002
+  scenario expected: 42.717
+  scenario expected: 41.430
+  scenario expected: 42.876
+  scenario expected: 42.199
+  scenario expected: 45.747
+  scenario expected: 40.830
+  scenario expected: 39.792
+  scenario expected: 40.850
+  scenario expected: 43.719
+  scenario expected: 39.221
+  scenario expected: 40.698
+  scenario expected: 42.042
+  scenario expected: 45.749
+  scenario expected: 44.675
+  scenario expected: 39.456
+  scenario expected: 41.064
+  scenario expected: 43.416
+  scenario expected: 41.856
+  scenario expected: 46.403
+  scenario expected: 47.853
+  scenario expected: 42.351
+  scenario expected: 38.320
+  scenario expected: 46.034
+  scenario expected: 37.798
+  scenario expected: 41.246
+  scenario expected: 40.004
+  scenario expected: 35.518
+  scenario expected: 45.408
+  scenario expected: 38.619
+                avg: 42.192
+
+solution  3
+MIP 66     expected: 30.68
+  scenario expected: 41.774
+  scenario expected: 42.361
+  scenario expected: 43.394
+  scenario expected: 44.721
+  scenario expected: 46.376
+  scenario expected: 41.823
+  scenario expected: 45.434
+  scenario expected: 41.675
+  scenario expected: 43.856
+  scenario expected: 45.839
+  scenario expected: 41.279
+  scenario expected: 41.555
+  scenario expected: 42.357
+  scenario expected: 42.684
+  scenario expected: 46.248
+  scenario expected: 45.413
+  scenario expected: 47.262
+  scenario expected: 45.742
+  scenario expected: 43.824
+  scenario expected: 44.623
+  scenario expected: 46.202
+  scenario expected: 44.814
+  scenario expected: 40.139
+  scenario expected: 42.673
+  scenario expected: 45.174
+  scenario expected: 44.616
+  scenario expected: 44.492
+  scenario expected: 40.029
+  scenario expected: 44.310
+  scenario expected: 45.620
+  scenario expected: 46.149
+  scenario expected: 43.484
+  scenario expected: 44.460
+  scenario expected: 47.948
+  scenario expected: 44.068
+  scenario expected: 41.580
+  scenario expected: 42.386
+  scenario expected: 42.257
+  scenario expected: 52.755
+  scenario expected: 43.597
+  scenario expected: 41.355
+  scenario expected: 43.876
+  scenario expected: 44.328
+  scenario expected: 44.178
+  scenario expected: 40.768
+  scenario expected: 41.092
+  scenario expected: 42.741
+  scenario expected: 43.087
+  scenario expected: 44.871
+  scenario expected: 42.685
+  scenario expected: 40.676
+  scenario expected: 45.343
+  scenario expected: 43.443
+  scenario expected: 37.057
+  scenario expected: 40.711
+  scenario expected: 45.612
+  scenario expected: 44.359
+  scenario expected: 43.419
+  scenario expected: 43.261
+  scenario expected: 40.735
+  scenario expected: 44.514
+  scenario expected: 45.181
+  scenario expected: 41.682
+  scenario expected: 44.381
+  scenario expected: 43.825
+  scenario expected: 40.287
+  scenario expected: 40.196
+  scenario expected: 43.955
+  scenario expected: 43.363
+  scenario expected: 40.679
+  scenario expected: 42.669
+  scenario expected: 46.242
+  scenario expected: 42.410
+  scenario expected: 41.252
+  scenario expected: 41.779
+  scenario expected: 46.427
+  scenario expected: 41.690
+  scenario expected: 44.219
+  scenario expected: 45.003
+  scenario expected: 40.708
+  scenario expected: 43.003
+  scenario expected: 39.297
+  scenario expected: 43.967
+  scenario expected: 46.854
+  scenario expected: 43.552
+  scenario expected: 40.870
+  scenario expected: 47.753
+  scenario expected: 40.989
+  scenario expected: 46.155
+  scenario expected: 43.821
+  scenario expected: 42.024
+  scenario expected: 43.672
+  scenario expected: 43.876
+  scenario expected: 45.546
+  scenario expected: 43.502
+  scenario expected: 45.414
+  scenario expected: 43.072
+  scenario expected: 42.260
+  scenario expected: 39.699
+  scenario expected: 44.026
+                avg: 43.484
+
+solution  4
+MIP 66     expected: 30.93
+  scenario expected: 45.425
+  scenario expected: 47.805
+  scenario expected: 45.387
+  scenario expected: 45.552
+  scenario expected: 44.707
+  scenario expected: 45.521
+  scenario expected: 46.215
+  scenario expected: 44.452
+  scenario expected: 45.413
+  scenario expected: 47.715
+  scenario expected: 46.275
+  scenario expected: 45.528
+  scenario expected: 41.152
+  scenario expected: 45.649
+  scenario expected: 44.218
+  scenario expected: 48.153
+  scenario expected: 43.494
+  scenario expected: 47.497
+  scenario expected: 41.148
+  scenario expected: 46.004
+  scenario expected: 45.460
+  scenario expected: 43.435
+  scenario expected: 44.142
+  scenario expected: 45.048
+  scenario expected: 43.984
+  scenario expected: 42.531
+  scenario expected: 43.194
+  scenario expected: 45.627
+  scenario expected: 42.790
+  scenario expected: 41.595
+  scenario expected: 45.966
+  scenario expected: 46.071
+  scenario expected: 44.482
+  scenario expected: 43.067
+  scenario expected: 45.562
+  scenario expected: 44.892
+  scenario expected: 45.033
+  scenario expected: 42.810
+  scenario expected: 47.841
+  scenario expected: 42.812
+  scenario expected: 46.070
+  scenario expected: 44.060
+  scenario expected: 46.008
+  scenario expected: 43.024
+  scenario expected: 46.242
+  scenario expected: 44.546
+  scenario expected: 45.702
+  scenario expected: 47.514
+  scenario expected: 45.341
+  scenario expected: 44.432
+  scenario expected: 45.060
+  scenario expected: 47.488
+  scenario expected: 42.927
+  scenario expected: 42.356
+  scenario expected: 46.271
+  scenario expected: 46.477
+  scenario expected: 44.114
+  scenario expected: 42.934
+  scenario expected: 43.857
+  scenario expected: 45.784
+  scenario expected: 48.007
+  scenario expected: 43.494
+  scenario expected: 44.271
+  scenario expected: 45.485
+  scenario expected: 46.062
+  scenario expected: 48.772
+  scenario expected: 42.316
+  scenario expected: 43.908
+  scenario expected: 40.213
+  scenario expected: 46.368
+  scenario expected: 45.276
+  scenario expected: 46.966
+  scenario expected: 51.560
+  scenario expected: 40.827
+  scenario expected: 46.848
+  scenario expected: 45.899
+  scenario expected: 43.297
+  scenario expected: 45.940
+  scenario expected: 40.926
+  scenario expected: 44.468
+  scenario expected: 45.677
+  scenario expected: 42.809
+  scenario expected: 46.057
+  scenario expected: 46.621
+  scenario expected: 44.793
+  scenario expected: 42.737
+  scenario expected: 45.297
+  scenario expected: 43.482
+  scenario expected: 43.705
+  scenario expected: 44.346
+  scenario expected: 42.221
+  scenario expected: 43.897
+  scenario expected: 43.317
+  scenario expected: 46.098
+  scenario expected: 45.789
+  scenario expected: 47.119
+  scenario expected: 49.027
+  scenario expected: 41.298
+  scenario expected: 41.989
+  scenario expected: 40.519
+                avg: 44.816
+
+solution  5
+MIP 66     expected: 30.93
+  scenario expected: 44.291
+  scenario expected: 41.677
+  scenario expected: 40.851
+  scenario expected: 43.557
+  scenario expected: 43.900
+  scenario expected: 41.040
+  scenario expected: 47.770
+  scenario expected: 42.579
+  scenario expected: 45.036
+  scenario expected: 45.900
+  scenario expected: 43.889
+  scenario expected: 48.545
+  scenario expected: 44.835
+  scenario expected: 45.182
+  scenario expected: 48.252
+  scenario expected: 45.012
+  scenario expected: 46.925
+  scenario expected: 44.156
+  scenario expected: 46.415
+  scenario expected: 46.028
+  scenario expected: 48.277
+  scenario expected: 45.635
+  scenario expected: 45.972
+  scenario expected: 48.243
+  scenario expected: 42.787
+  scenario expected: 42.390
+  scenario expected: 46.778
+  scenario expected: 47.256
+  scenario expected: 47.211
+  scenario expected: 47.162
+  scenario expected: 45.444
+  scenario expected: 45.882
+  scenario expected: 41.654
+  scenario expected: 42.790
+  scenario expected: 45.602
+  scenario expected: 44.535
+  scenario expected: 47.362
+  scenario expected: 42.329
+  scenario expected: 45.703
+  scenario expected: 45.060
+  scenario expected: 41.890
+  scenario expected: 43.703
+  scenario expected: 41.236
+  scenario expected: 39.632
+  scenario expected: 44.982
+  scenario expected: 44.758
+  scenario expected: 47.968
+  scenario expected: 48.659
+  scenario expected: 48.667
+  scenario expected: 44.817
+  scenario expected: 45.463
+  scenario expected: 45.430
+  scenario expected: 45.927
+  scenario expected: 47.537
+  scenario expected: 45.747
+  scenario expected: 47.155
+  scenario expected: 49.182
+  scenario expected: 43.558
+  scenario expected: 47.711
+  scenario expected: 43.809
+  scenario expected: 46.418
+  scenario expected: 44.788
+  scenario expected: 40.597
+  scenario expected: 45.183
+  scenario expected: 46.868
+  scenario expected: 46.735
+  scenario expected: 44.255
+  scenario expected: 48.772
+  scenario expected: 45.523
+  scenario expected: 45.847
+  scenario expected: 45.472
+  scenario expected: 43.798
+  scenario expected: 43.651
+  scenario expected: 43.752
+  scenario expected: 44.273
+  scenario expected: 44.041
+  scenario expected: 45.370
+  scenario expected: 46.456
+  scenario expected: 44.372
+  scenario expected: 45.370
+  scenario expected: 47.284
+  scenario expected: 40.413
+  scenario expected: 42.122
+  scenario expected: 50.410
+  scenario expected: 43.247
+  scenario expected: 46.052
+  scenario expected: 42.120
+  scenario expected: 47.388
+  scenario expected: 45.548
+  scenario expected: 50.293
+  scenario expected: 43.602
+  scenario expected: 45.987
+  scenario expected: 45.268
+  scenario expected: 47.269
+  scenario expected: 46.536
+  scenario expected: 43.427
+  scenario expected: 42.702
+  scenario expected: 43.207
+  scenario expected: 46.755
+  scenario expected: 42.604
+                avg: 45.155
+
+solution  6
+MIP 66     expected: 31.84
+  scenario expected: 48.990
+  scenario expected: 43.811
+  scenario expected: 45.394
+  scenario expected: 47.167
+  scenario expected: 49.077
+  scenario expected: 39.542
+  scenario expected: 45.770
+  scenario expected: 47.042
+  scenario expected: 47.781
+  scenario expected: 42.039
+  scenario expected: 40.206
+  scenario expected: 46.167
+  scenario expected: 45.910
+  scenario expected: 45.186
+  scenario expected: 44.460
+  scenario expected: 41.407
+  scenario expected: 46.019
+  scenario expected: 44.301
+  scenario expected: 50.314
+  scenario expected: 41.758
+  scenario expected: 45.000
+  scenario expected: 47.045
+  scenario expected: 44.664
+  scenario expected: 45.533
+  scenario expected: 44.467
+  scenario expected: 42.505
+  scenario expected: 45.425
+  scenario expected: 49.029
+  scenario expected: 43.347
+  scenario expected: 43.675
+  scenario expected: 46.825
+  scenario expected: 45.175
+  scenario expected: 43.663
+  scenario expected: 44.406
+  scenario expected: 46.058
+  scenario expected: 44.102
+  scenario expected: 44.188
+  scenario expected: 42.553
+  scenario expected: 42.379
+  scenario expected: 46.342
+  scenario expected: 44.909
+  scenario expected: 42.716
+  scenario expected: 47.523
+  scenario expected: 43.477
+  scenario expected: 43.534
+  scenario expected: 47.697
+  scenario expected: 46.409
+  scenario expected: 42.342
+  scenario expected: 44.714
+  scenario expected: 43.792
+  scenario expected: 41.122
+  scenario expected: 43.361
+  scenario expected: 43.430
+  scenario expected: 42.493
+  scenario expected: 44.573
+  scenario expected: 45.271
+  scenario expected: 43.293
+  scenario expected: 46.476
+  scenario expected: 42.472
+  scenario expected: 43.907
+  scenario expected: 42.230
+  scenario expected: 47.165
+  scenario expected: 44.488
+  scenario expected: 43.094
+  scenario expected: 43.225
+  scenario expected: 45.497
+  scenario expected: 48.147
+  scenario expected: 47.222
+  scenario expected: 45.212
+  scenario expected: 46.402
+  scenario expected: 41.829
+  scenario expected: 40.427
+  scenario expected: 45.110
+  scenario expected: 41.913
+  scenario expected: 46.902
+  scenario expected: 45.708
+  scenario expected: 46.861
+  scenario expected: 47.011
+  scenario expected: 41.987
+  scenario expected: 45.130
+  scenario expected: 48.397
+  scenario expected: 45.202
+  scenario expected: 44.218
+  scenario expected: 45.402
+  scenario expected: 44.750
+  scenario expected: 41.987
+  scenario expected: 46.427
+  scenario expected: 44.904
+  scenario expected: 43.803
+  scenario expected: 44.663
+  scenario expected: 42.987
+  scenario expected: 44.747
+  scenario expected: 44.920
+  scenario expected: 43.077
+  scenario expected: 45.339
+  scenario expected: 42.123
+  scenario expected: 44.400
+  scenario expected: 42.736
+  scenario expected: 42.346
+  scenario expected: 48.014
+                avg: 44.682
+
+solution  7
+MIP 66     expected: 29.75
+  scenario expected: 45.582
+  scenario expected: 43.270
+  scenario expected: 45.545
+  scenario expected: 41.666
+  scenario expected: 46.666
+  scenario expected: 43.034
+  scenario expected: 44.839
+  scenario expected: 44.915
+  scenario expected: 43.620
+  scenario expected: 42.339
+  scenario expected: 43.100
+  scenario expected: 43.897
+  scenario expected: 47.396
+  scenario expected: 44.926
+  scenario expected: 40.406
+  scenario expected: 42.246
+  scenario expected: 46.988
+  scenario expected: 42.854
+  scenario expected: 44.322
+  scenario expected: 40.960
+  scenario expected: 44.961
+  scenario expected: 46.299
+  scenario expected: 41.076
+  scenario expected: 45.791
+  scenario expected: 41.388
+  scenario expected: 42.671
+  scenario expected: 45.673
+  scenario expected: 44.879
+  scenario expected: 43.829
+  scenario expected: 47.152
+  scenario expected: 45.099
+  scenario expected: 47.931
+  scenario expected: 44.183
+  scenario expected: 46.458
+  scenario expected: 44.452
+  scenario expected: 46.457
+  scenario expected: 41.691
+  scenario expected: 43.042
+  scenario expected: 39.693
+  scenario expected: 46.180
+  scenario expected: 41.426
+  scenario expected: 43.700
+  scenario expected: 44.709
+  scenario expected: 48.654
+  scenario expected: 43.206
+  scenario expected: 43.832
+  scenario expected: 47.135
+  scenario expected: 41.910
+  scenario expected: 42.933
+  scenario expected: 46.979
+  scenario expected: 43.269
+  scenario expected: 44.824
+  scenario expected: 40.233
+  scenario expected: 43.738
+  scenario expected: 40.999
+  scenario expected: 43.911
+  scenario expected: 45.942
+  scenario expected: 44.241
+  scenario expected: 43.044
+  scenario expected: 42.344
+  scenario expected: 44.572
+  scenario expected: 41.669
+  scenario expected: 41.884
+  scenario expected: 48.506
+  scenario expected: 43.216
+  scenario expected: 43.154
+  scenario expected: 44.005
+  scenario expected: 45.016
+  scenario expected: 44.037
+  scenario expected: 48.867
+  scenario expected: 45.689
+  scenario expected: 44.075
+  scenario expected: 42.260
+  scenario expected: 46.249
+  scenario expected: 42.759
+  scenario expected: 46.657
+  scenario expected: 44.510
+  scenario expected: 39.630
+  scenario expected: 47.654
+  scenario expected: 46.160
+  scenario expected: 46.741
+  scenario expected: 44.678
+  scenario expected: 44.797
+  scenario expected: 43.960
+  scenario expected: 43.413
+  scenario expected: 45.334
+  scenario expected: 42.904
+  scenario expected: 43.110
+  scenario expected: 41.775
+  scenario expected: 46.388
+  scenario expected: 50.426
+  scenario expected: 46.555
+  scenario expected: 41.520
+  scenario expected: 43.403
+  scenario expected: 43.391
+  scenario expected: 44.076
+  scenario expected: 46.133
+  scenario expected: 46.418
+  scenario expected: 44.322
+  scenario expected: 41.166
+                avg: 44.256
+
+solution  8
+MIP 66     expected: 31.14
+  scenario expected: 43.218
+  scenario expected: 42.657
+  scenario expected: 45.805
+  scenario expected: 46.866
+  scenario expected: 50.189
+  scenario expected: 46.829
+  scenario expected: 43.922
+  scenario expected: 43.227
+  scenario expected: 49.963
+  scenario expected: 45.038
+  scenario expected: 46.338
+  scenario expected: 43.083
+  scenario expected: 48.948
+  scenario expected: 42.657
+  scenario expected: 47.501
+  scenario expected: 43.461
+  scenario expected: 42.744
+  scenario expected: 46.038
+  scenario expected: 43.698
+  scenario expected: 44.084
+  scenario expected: 42.653
+  scenario expected: 46.488
+  scenario expected: 47.190
+  scenario expected: 46.969
+  scenario expected: 44.520
+  scenario expected: 42.933
+  scenario expected: 44.973
+  scenario expected: 44.453
+  scenario expected: 45.038
+  scenario expected: 46.759
+  scenario expected: 44.568
+  scenario expected: 46.274
+  scenario expected: 48.234
+  scenario expected: 47.076
+  scenario expected: 48.219
+  scenario expected: 46.157
+  scenario expected: 43.488
+  scenario expected: 44.577
+  scenario expected: 43.500
+  scenario expected: 45.985
+  scenario expected: 43.614
+  scenario expected: 44.479
+  scenario expected: 45.451
+  scenario expected: 44.346
+  scenario expected: 48.189
+  scenario expected: 46.015
+  scenario expected: 39.830
+  scenario expected: 42.001
+  scenario expected: 44.098
+  scenario expected: 44.273
+  scenario expected: 44.957
+  scenario expected: 42.493
+  scenario expected: 47.245
+  scenario expected: 41.753
+  scenario expected: 44.179
+  scenario expected: 43.774
+  scenario expected: 46.343
+  scenario expected: 45.538
+  scenario expected: 43.202
+  scenario expected: 48.148
+  scenario expected: 45.979
+  scenario expected: 46.013
+  scenario expected: 44.863
+  scenario expected: 46.099
+  scenario expected: 47.709
+  scenario expected: 49.134
+  scenario expected: 47.967
+  scenario expected: 47.100
+  scenario expected: 46.933
+  scenario expected: 49.765
+  scenario expected: 46.023
+  scenario expected: 46.375
+  scenario expected: 46.615
+  scenario expected: 45.266
+  scenario expected: 43.332
+  scenario expected: 45.321
+  scenario expected: 45.665
+  scenario expected: 45.190
+  scenario expected: 47.541
+  scenario expected: 45.373
+  scenario expected: 44.371
+  scenario expected: 44.217
+  scenario expected: 45.727
+  scenario expected: 45.487
+  scenario expected: 46.003
+  scenario expected: 45.534
+  scenario expected: 44.934
+  scenario expected: 46.425
+  scenario expected: 45.235
+  scenario expected: 45.991
+  scenario expected: 44.104
+  scenario expected: 44.863
+  scenario expected: 46.246
+  scenario expected: 47.533
+  scenario expected: 44.337
+  scenario expected: 44.404
+  scenario expected: 48.012
+  scenario expected: 43.586
+  scenario expected: 44.383
+  scenario expected: 45.192
+                avg: 45.411
+
+solution  9
+MIP 66     expected: 31.90
+  scenario expected: 48.564
+  scenario expected: 46.725
+  scenario expected: 47.487
+  scenario expected: 43.090
+  scenario expected: 41.406
+  scenario expected: 45.984
+  scenario expected: 44.915
+  scenario expected: 49.344
+  scenario expected: 47.016
+  scenario expected: 45.091
+  scenario expected: 43.905
+  scenario expected: 44.805
+  scenario expected: 45.698
+  scenario expected: 48.782
+  scenario expected: 47.752
+  scenario expected: 45.318
+  scenario expected: 41.463
+  scenario expected: 48.897
+  scenario expected: 44.686
+  scenario expected: 45.987
+  scenario expected: 46.897
+  scenario expected: 51.406
+  scenario expected: 44.468
+  scenario expected: 45.021
+  scenario expected: 51.470
+  scenario expected: 47.781
+  scenario expected: 41.925
+  scenario expected: 43.608
+  scenario expected: 47.761
+  scenario expected: 46.594
+  scenario expected: 47.814
+  scenario expected: 42.116
+  scenario expected: 42.310
+  scenario expected: 46.240
+  scenario expected: 47.697
+  scenario expected: 44.477
+  scenario expected: 45.010
+  scenario expected: 49.805
+  scenario expected: 49.831
+  scenario expected: 46.867
+  scenario expected: 46.830
+  scenario expected: 47.930
+  scenario expected: 46.052
+  scenario expected: 43.336
+  scenario expected: 47.200
+  scenario expected: 46.266
+  scenario expected: 44.413
+  scenario expected: 47.151
+  scenario expected: 46.562
+  scenario expected: 44.218
+  scenario expected: 44.193
+  scenario expected: 43.726
+  scenario expected: 48.080
+  scenario expected: 43.308
+  scenario expected: 47.471
+  scenario expected: 45.151
+  scenario expected: 46.836
+  scenario expected: 44.327
+  scenario expected: 46.161
+  scenario expected: 46.829
+  scenario expected: 46.423
+  scenario expected: 46.193
+  scenario expected: 45.461
+  scenario expected: 42.144
+  scenario expected: 41.735
+  scenario expected: 43.665
+  scenario expected: 46.440
+  scenario expected: 46.547
+  scenario expected: 48.238
+  scenario expected: 44.436
+  scenario expected: 47.579
+  scenario expected: 44.408
+  scenario expected: 44.609
+  scenario expected: 43.600
+  scenario expected: 45.449
+  scenario expected: 48.781
+  scenario expected: 45.715
+  scenario expected: 47.311
+  scenario expected: 42.650
+  scenario expected: 45.181
+  scenario expected: 40.905
+  scenario expected: 47.854
+  scenario expected: 45.664
+  scenario expected: 43.540
+  scenario expected: 44.537
+  scenario expected: 46.289
+  scenario expected: 44.851
+  scenario expected: 47.913
+  scenario expected: 45.802
+  scenario expected: 48.029
+  scenario expected: 49.165
+  scenario expected: 45.700
+  scenario expected: 43.228
+  scenario expected: 45.616
+  scenario expected: 48.398
+  scenario expected: 45.800
+  scenario expected: 45.934
+  scenario expected: 45.170
+  scenario expected: 45.391
+  scenario expected: 47.099
+                avg: 45.855
+
+solution 10
+MIP 66     expected: 32.18
+  scenario expected: 46.749
+  scenario expected: 45.192
+  scenario expected: 45.967
+  scenario expected: 45.309
+  scenario expected: 47.128
+  scenario expected: 43.923
+  scenario expected: 45.717
+  scenario expected: 43.197
+  scenario expected: 45.905
+  scenario expected: 45.993
+  scenario expected: 46.758
+  scenario expected: 44.601
+  scenario expected: 47.872
+  scenario expected: 43.248
+  scenario expected: 43.446
+  scenario expected: 42.837
+  scenario expected: 48.600
+  scenario expected: 45.395
+  scenario expected: 47.157
+  scenario expected: 46.840
+  scenario expected: 46.964
+  scenario expected: 50.154
+  scenario expected: 45.076
+  scenario expected: 45.546
+  scenario expected: 46.769
+  scenario expected: 46.588
+  scenario expected: 46.103
+  scenario expected: 46.418
+  scenario expected: 43.395
+  scenario expected: 43.496
+  scenario expected: 46.567
+  scenario expected: 44.596
+  scenario expected: 44.457
+  scenario expected: 43.903
+  scenario expected: 45.342
+  scenario expected: 42.424
+  scenario expected: 45.599
+  scenario expected: 48.422
+  scenario expected: 44.216
+  scenario expected: 44.768
+  scenario expected: 48.717
+  scenario expected: 47.756
+  scenario expected: 46.427
+  scenario expected: 41.786
+  scenario expected: 43.154
+  scenario expected: 41.785
+  scenario expected: 45.781
+  scenario expected: 49.169
+  scenario expected: 45.390
+  scenario expected: 47.552
+  scenario expected: 47.796
+  scenario expected: 49.450
+  scenario expected: 45.650
+  scenario expected: 45.116
+  scenario expected: 44.840
+  scenario expected: 45.197
+  scenario expected: 46.785
+  scenario expected: 46.348
+  scenario expected: 45.014
+  scenario expected: 46.533
+  scenario expected: 39.495
+  scenario expected: 46.587
+  scenario expected: 47.671
+  scenario expected: 45.573
+  scenario expected: 45.166
+  scenario expected: 45.779
+  scenario expected: 45.351
+  scenario expected: 45.375
+  scenario expected: 47.229
+  scenario expected: 44.917
+  scenario expected: 44.112
+  scenario expected: 46.772
+  scenario expected: 44.448
+  scenario expected: 47.674
+  scenario expected: 46.872
+  scenario expected: 44.900
+  scenario expected: 47.139
+  scenario expected: 43.416
+  scenario expected: 44.686
+  scenario expected: 46.292
+  scenario expected: 50.768
+  scenario expected: 47.486
+  scenario expected: 44.203
+  scenario expected: 43.041
+  scenario expected: 44.308
+  scenario expected: 46.659
+  scenario expected: 45.741
+  scenario expected: 45.052
+  scenario expected: 42.963
+  scenario expected: 44.674
+  scenario expected: 47.147
+  scenario expected: 43.784
+  scenario expected: 45.755
+  scenario expected: 45.397
+  scenario expected: 49.146
+  scenario expected: 45.894
+  scenario expected: 48.283
+  scenario expected: 45.479
+  scenario expected: 47.050
+  scenario expected: 45.714
+                avg: 45.709
+
+solution 11
+MIP 66     expected: 31.38
+  scenario expected: 44.531
+  scenario expected: 42.527
+  scenario expected: 45.110
+  scenario expected: 42.394
+  scenario expected: 43.623
+  scenario expected: 43.311
+  scenario expected: 43.046
+  scenario expected: 48.426
+  scenario expected: 47.320
+  scenario expected: 46.953
+  scenario expected: 47.214
+  scenario expected: 42.846
+  scenario expected: 42.917
+  scenario expected: 43.373
+  scenario expected: 45.697
+  scenario expected: 45.315
+  scenario expected: 44.869
+  scenario expected: 42.853
+  scenario expected: 45.525
+  scenario expected: 49.214
+  scenario expected: 44.454
+  scenario expected: 46.940
+  scenario expected: 47.325
+  scenario expected: 45.836
+  scenario expected: 41.361
+  scenario expected: 49.231
+  scenario expected: 45.833
+  scenario expected: 48.222
+  scenario expected: 43.007
+  scenario expected: 44.264
+  scenario expected: 42.561
+  scenario expected: 43.652
+  scenario expected: 46.100
+  scenario expected: 48.390
+  scenario expected: 42.338
+  scenario expected: 47.963
+  scenario expected: 44.468
+  scenario expected: 49.321
+  scenario expected: 44.216
+  scenario expected: 42.570
+  scenario expected: 45.073
+  scenario expected: 48.467
+  scenario expected: 48.131
+  scenario expected: 42.045
+  scenario expected: 49.840
+  scenario expected: 45.040
+  scenario expected: 46.481
+  scenario expected: 45.263
+  scenario expected: 45.920
+  scenario expected: 45.137
+  scenario expected: 45.481
+  scenario expected: 44.996
+  scenario expected: 42.482
+  scenario expected: 41.878
+  scenario expected: 40.250
+  scenario expected: 45.324
+  scenario expected: 47.961
+  scenario expected: 49.115
+  scenario expected: 44.203
+  scenario expected: 42.202
+  scenario expected: 41.221
+  scenario expected: 44.656
+  scenario expected: 45.032
+  scenario expected: 42.088
+  scenario expected: 47.215
+  scenario expected: 45.676
+  scenario expected: 44.981
+  scenario expected: 42.706
+  scenario expected: 43.675
+  scenario expected: 41.818
+  scenario expected: 43.854
+  scenario expected: 48.266
+  scenario expected: 46.371
+  scenario expected: 44.825
+  scenario expected: 47.058
+  scenario expected: 44.757
+  scenario expected: 43.218
+  scenario expected: 42.875
+  scenario expected: 42.709
+  scenario expected: 50.767
+  scenario expected: 47.704
+  scenario expected: 44.138
+  scenario expected: 43.138
+  scenario expected: 42.556
+  scenario expected: 48.726
+  scenario expected: 42.955
+  scenario expected: 45.342
+  scenario expected: 47.095
+  scenario expected: 44.591
+  scenario expected: 46.713
+  scenario expected: 45.582
+  scenario expected: 44.578
+  scenario expected: 47.120
+  scenario expected: 45.822
+  scenario expected: 46.112
+  scenario expected: 48.926
+  scenario expected: 44.971
+  scenario expected: 44.280
+  scenario expected: 45.230
+  scenario expected: 46.942
+                avg: 45.167
+
+solution 12
+MIP 66     expected: 31.38
+  scenario expected: 46.142
+  scenario expected: 44.940
+  scenario expected: 41.139
+  scenario expected: 48.121
+  scenario expected: 48.612
+  scenario expected: 48.404
+  scenario expected: 44.307
+  scenario expected: 42.113
+  scenario expected: 44.282
+  scenario expected: 45.388
+  scenario expected: 45.925
+  scenario expected: 45.605
+  scenario expected: 45.588
+  scenario expected: 44.770
+  scenario expected: 41.791
+  scenario expected: 44.834
+  scenario expected: 45.915
+  scenario expected: 43.103
+  scenario expected: 49.767
+  scenario expected: 47.174
+  scenario expected: 44.411
+  scenario expected: 45.535
+  scenario expected: 47.965
+  scenario expected: 41.176
+  scenario expected: 46.506
+  scenario expected: 45.647
+  scenario expected: 42.082
+  scenario expected: 43.778
+  scenario expected: 41.291
+  scenario expected: 46.202
+  scenario expected: 42.239
+  scenario expected: 44.786
+  scenario expected: 43.409
+  scenario expected: 46.567
+  scenario expected: 48.016
+  scenario expected: 44.678
+  scenario expected: 50.111
+  scenario expected: 44.195
+  scenario expected: 48.414
+  scenario expected: 46.693
+  scenario expected: 45.571
+  scenario expected: 42.919
+  scenario expected: 45.392
+  scenario expected: 45.004
+  scenario expected: 43.886
+  scenario expected: 45.185
+  scenario expected: 43.512
+  scenario expected: 47.910
+  scenario expected: 48.766
+  scenario expected: 44.440
+  scenario expected: 44.515
+  scenario expected: 47.067
+  scenario expected: 45.076
+  scenario expected: 45.141
+  scenario expected: 44.610
+  scenario expected: 47.256
+  scenario expected: 44.347
+  scenario expected: 47.633
+  scenario expected: 44.775
+  scenario expected: 44.777
+  scenario expected: 44.761
+  scenario expected: 47.955
+  scenario expected: 44.448
+  scenario expected: 47.551
+  scenario expected: 44.565
+  scenario expected: 44.516
+  scenario expected: 43.569
+  scenario expected: 43.537
+  scenario expected: 43.531
+  scenario expected: 45.997
+  scenario expected: 44.415
+  scenario expected: 47.392
+  scenario expected: 44.892
+  scenario expected: 43.119
+  scenario expected: 43.581
+  scenario expected: 47.515
+  scenario expected: 42.975
+  scenario expected: 46.587
+  scenario expected: 42.316
+  scenario expected: 40.139
+  scenario expected: 46.212
+  scenario expected: 45.558
+  scenario expected: 47.652
+  scenario expected: 47.437
+  scenario expected: 44.451
+  scenario expected: 42.117
+  scenario expected: 46.942
+  scenario expected: 47.033
+  scenario expected: 43.892
+  scenario expected: 48.196
+  scenario expected: 44.841
+  scenario expected: 46.409
+  scenario expected: 42.268
+  scenario expected: 43.319
+  scenario expected: 45.713
+  scenario expected: 44.420
+  scenario expected: 40.503
+  scenario expected: 51.420
+  scenario expected: 45.577
+  scenario expected: 46.598
+                avg: 45.233
+
+solution 13
+MIP 66     expected: 31.38
+  scenario expected: 45.205
+  scenario expected: 46.342
+  scenario expected: 43.529
+  scenario expected: 45.514
+  scenario expected: 45.493
+  scenario expected: 43.306
+  scenario expected: 45.233
+  scenario expected: 42.624
+  scenario expected: 43.762
+  scenario expected: 43.602
+  scenario expected: 45.347
+  scenario expected: 46.930
+  scenario expected: 46.038
+  scenario expected: 49.487
+  scenario expected: 43.038
+  scenario expected: 46.131
+  scenario expected: 43.313
+  scenario expected: 44.765
+  scenario expected: 47.725
+  scenario expected: 45.579
+  scenario expected: 44.700
+  scenario expected: 45.868
+  scenario expected: 45.970
+  scenario expected: 49.789
+  scenario expected: 43.524
+  scenario expected: 45.561
+  scenario expected: 48.391
+  scenario expected: 44.333
+  scenario expected: 44.293
+  scenario expected: 48.071
+  scenario expected: 46.502
+  scenario expected: 48.179
+  scenario expected: 48.422
+  scenario expected: 47.812
+  scenario expected: 42.996
+  scenario expected: 45.326
+  scenario expected: 41.781
+  scenario expected: 42.615
+  scenario expected: 43.742
+  scenario expected: 44.467
+  scenario expected: 42.944
+  scenario expected: 46.028
+  scenario expected: 46.080
+  scenario expected: 44.930
+  scenario expected: 44.782
+  scenario expected: 45.822
+  scenario expected: 41.383
+  scenario expected: 44.810
+  scenario expected: 45.020
+  scenario expected: 44.493
+  scenario expected: 47.055
+  scenario expected: 43.355
+  scenario expected: 44.247
+  scenario expected: 42.275
+  scenario expected: 50.402
+  scenario expected: 43.558
+  scenario expected: 45.415
+  scenario expected: 47.483
+  scenario expected: 46.814
+  scenario expected: 50.908
+  scenario expected: 44.801
+  scenario expected: 44.996
+  scenario expected: 47.743
+  scenario expected: 41.735
+  scenario expected: 45.084
+  scenario expected: 44.139
+  scenario expected: 50.201
+  scenario expected: 44.544
+  scenario expected: 47.993
+  scenario expected: 46.502
+  scenario expected: 48.452
+  scenario expected: 46.777
+  scenario expected: 46.778
+  scenario expected: 40.759
+  scenario expected: 44.687
+  scenario expected: 45.023
+  scenario expected: 44.317
+  scenario expected: 43.629
+  scenario expected: 45.313
+  scenario expected: 44.775
+  scenario expected: 49.592
+  scenario expected: 41.006
+  scenario expected: 45.584
+  scenario expected: 47.379
+  scenario expected: 43.675
+  scenario expected: 43.430
+  scenario expected: 45.275
+  scenario expected: 46.958
+  scenario expected: 40.504
+  scenario expected: 42.982
+  scenario expected: 45.431
+  scenario expected: 49.926
+  scenario expected: 44.092
+  scenario expected: 43.117
+  scenario expected: 44.452
+  scenario expected: 44.027
+  scenario expected: 45.554
+  scenario expected: 44.755
+  scenario expected: 42.641
+  scenario expected: 44.656
+                avg: 45.264
+
+solution 14
+MIP 66     expected: 31.38
+  scenario expected: 49.783
+  scenario expected: 43.640
+  scenario expected: 45.431
+  scenario expected: 42.131
+  scenario expected: 46.726
+  scenario expected: 47.148
+  scenario expected: 45.857
+  scenario expected: 44.005
+  scenario expected: 46.505
+  scenario expected: 48.212
+  scenario expected: 42.782
+  scenario expected: 42.647
+  scenario expected: 42.112
+  scenario expected: 47.037
+  scenario expected: 47.365
+  scenario expected: 46.981
+  scenario expected: 42.433
+  scenario expected: 42.199
+  scenario expected: 48.117
+  scenario expected: 41.104
+  scenario expected: 45.275
+  scenario expected: 46.697
+  scenario expected: 43.742
+  scenario expected: 46.343
+  scenario expected: 45.529
+  scenario expected: 42.905
+  scenario expected: 48.014
+  scenario expected: 45.722
+  scenario expected: 45.203
+  scenario expected: 43.054
+  scenario expected: 43.693
+  scenario expected: 47.586
+  scenario expected: 46.641
+  scenario expected: 44.917
+  scenario expected: 45.314
+  scenario expected: 45.878
+  scenario expected: 45.355
+  scenario expected: 43.801
+  scenario expected: 45.713
+  scenario expected: 50.226
+  scenario expected: 43.709
+  scenario expected: 44.076
+  scenario expected: 47.645
+  scenario expected: 48.654
+  scenario expected: 43.418
+  scenario expected: 47.951
+  scenario expected: 48.734
+  scenario expected: 48.979
+  scenario expected: 45.561
+  scenario expected: 43.730
+  scenario expected: 46.407
+  scenario expected: 42.993
+  scenario expected: 44.427
+  scenario expected: 46.932
+  scenario expected: 44.753
+  scenario expected: 45.827
+  scenario expected: 47.260
+  scenario expected: 42.447
+  scenario expected: 44.818
+  scenario expected: 47.343
+  scenario expected: 48.708
+  scenario expected: 45.781
+  scenario expected: 45.440
+  scenario expected: 43.777
+  scenario expected: 43.226
+  scenario expected: 44.577
+  scenario expected: 44.505
+  scenario expected: 44.842
+  scenario expected: 43.798
+  scenario expected: 48.224
+  scenario expected: 47.295
+  scenario expected: 47.069
+  scenario expected: 43.194
+  scenario expected: 45.964
+  scenario expected: 43.246
+  scenario expected: 43.017
+  scenario expected: 45.654
+  scenario expected: 49.641
+  scenario expected: 45.197
+  scenario expected: 47.290
+  scenario expected: 46.447
+  scenario expected: 40.505
+  scenario expected: 44.744
+  scenario expected: 44.511
+  scenario expected: 43.322
+  scenario expected: 49.988
+  scenario expected: 46.371
+  scenario expected: 45.807
+  scenario expected: 45.330
+  scenario expected: 45.346
+  scenario expected: 45.339
+  scenario expected: 45.992
+  scenario expected: 46.697
+  scenario expected: 48.523
+  scenario expected: 46.604
+  scenario expected: 46.604
+  scenario expected: 46.406
+  scenario expected: 42.925
+  scenario expected: 43.605
+  scenario expected: 43.817
+                avg: 45.488
+
+solution 15
+MIP 66     expected: 31.38
+  scenario expected: 45.662
+  scenario expected: 49.078
+  scenario expected: 43.777
+  scenario expected: 48.226
+  scenario expected: 48.793
+  scenario expected: 42.636
+  scenario expected: 43.639
+  scenario expected: 46.904
+  scenario expected: 46.840
+  scenario expected: 48.302
+  scenario expected: 46.749
+  scenario expected: 43.276
+  scenario expected: 40.771
+  scenario expected: 43.953
+  scenario expected: 42.362
+  scenario expected: 44.968
+  scenario expected: 42.889
+  scenario expected: 45.776
+  scenario expected: 47.494
+  scenario expected: 46.736
+  scenario expected: 43.710
+  scenario expected: 44.910
+  scenario expected: 44.530
+  scenario expected: 44.433
+  scenario expected: 43.651
+  scenario expected: 46.108
+  scenario expected: 43.401
+  scenario expected: 41.549
+  scenario expected: 44.004
+  scenario expected: 44.476
+  scenario expected: 49.192
+  scenario expected: 49.523
+  scenario expected: 45.099
+  scenario expected: 46.832
+  scenario expected: 43.544
+  scenario expected: 42.770
+  scenario expected: 43.901
+  scenario expected: 46.845
+  scenario expected: 47.836
+  scenario expected: 44.099
+  scenario expected: 47.740
+  scenario expected: 45.531
+  scenario expected: 46.295
+  scenario expected: 47.603
+  scenario expected: 43.946
+  scenario expected: 40.850
+  scenario expected: 42.816
+  scenario expected: 46.023
+  scenario expected: 48.071
+  scenario expected: 44.559
+  scenario expected: 45.820
+  scenario expected: 44.465
+  scenario expected: 42.245
+  scenario expected: 46.812
+  scenario expected: 47.207
+  scenario expected: 43.269
+  scenario expected: 44.670
+  scenario expected: 43.169
+  scenario expected: 42.643
+  scenario expected: 44.432
+  scenario expected: 49.669
+  scenario expected: 41.673
+  scenario expected: 47.380
+  scenario expected: 43.746
+  scenario expected: 42.624
+  scenario expected: 45.901
+  scenario expected: 42.565
+  scenario expected: 46.020
+  scenario expected: 46.124
+  scenario expected: 47.090
+  scenario expected: 45.838
+  scenario expected: 51.570
+  scenario expected: 43.457
+  scenario expected: 43.075
+  scenario expected: 49.095
+  scenario expected: 42.147
+  scenario expected: 43.078
+  scenario expected: 43.550
+  scenario expected: 45.655
+  scenario expected: 45.031
+  scenario expected: 43.894
+  scenario expected: 44.668
+  scenario expected: 44.286
+  scenario expected: 46.324
+  scenario expected: 48.846
+  scenario expected: 45.633
+  scenario expected: 48.370
+  scenario expected: 45.532
+  scenario expected: 44.615
+  scenario expected: 42.825
+  scenario expected: 42.583
+  scenario expected: 46.343
+  scenario expected: 47.476
+  scenario expected: 44.451
+  scenario expected: 43.001
+  scenario expected: 46.039
+  scenario expected: 45.420
+  scenario expected: 44.633
+  scenario expected: 45.625
+  scenario expected: 43.384
+                avg: 45.166
+
+solution 16
+MIP 66     expected: 31.38
+  scenario expected: 41.359
+  scenario expected: 46.739
+  scenario expected: 43.973
+  scenario expected: 41.937
+  scenario expected: 47.818
+  scenario expected: 41.171
+  scenario expected: 45.050
+  scenario expected: 42.569
+  scenario expected: 44.403
+  scenario expected: 46.486
+  scenario expected: 46.929
+  scenario expected: 43.192
+  scenario expected: 45.503
+  scenario expected: 45.768
+  scenario expected: 42.618
+  scenario expected: 43.389
+  scenario expected: 46.968
+  scenario expected: 45.258
+  scenario expected: 45.056
+  scenario expected: 42.364
+  scenario expected: 47.964
+  scenario expected: 43.567
+  scenario expected: 44.842
+  scenario expected: 44.186
+  scenario expected: 48.371
+  scenario expected: 45.236
+  scenario expected: 45.450
+  scenario expected: 45.179
+  scenario expected: 43.370
+  scenario expected: 41.499
+  scenario expected: 44.612
+  scenario expected: 44.073
+  scenario expected: 46.680
+  scenario expected: 44.968
+  scenario expected: 43.392
+  scenario expected: 44.073
+  scenario expected: 45.846
+  scenario expected: 45.222
+  scenario expected: 49.940
+  scenario expected: 48.617
+  scenario expected: 49.746
+  scenario expected: 39.645
+  scenario expected: 45.405
+  scenario expected: 45.729
+  scenario expected: 45.524
+  scenario expected: 46.798
+  scenario expected: 45.357
+  scenario expected: 47.078
+  scenario expected: 48.528
+  scenario expected: 45.598
+  scenario expected: 45.168
+  scenario expected: 42.136
+  scenario expected: 44.329
+  scenario expected: 47.441
+  scenario expected: 41.917
+  scenario expected: 44.081
+  scenario expected: 46.689
+  scenario expected: 46.178
+  scenario expected: 43.788
+  scenario expected: 46.264
+  scenario expected: 46.484
+  scenario expected: 44.090
+  scenario expected: 45.708
+  scenario expected: 44.306
+  scenario expected: 44.089
+  scenario expected: 41.622
+  scenario expected: 46.083
+  scenario expected: 45.836
+  scenario expected: 45.176
+  scenario expected: 44.507
+  scenario expected: 41.628
+  scenario expected: 44.956
+  scenario expected: 44.735
+  scenario expected: 43.788
+  scenario expected: 46.344
+  scenario expected: 40.689
+  scenario expected: 50.682
+  scenario expected: 45.253
+  scenario expected: 44.837
+  scenario expected: 50.184
+  scenario expected: 44.278
+  scenario expected: 43.845
+  scenario expected: 45.353
+  scenario expected: 41.225
+  scenario expected: 45.735
+  scenario expected: 44.809
+  scenario expected: 45.109
+  scenario expected: 45.711
+  scenario expected: 48.208
+  scenario expected: 46.844
+  scenario expected: 45.027
+  scenario expected: 48.077
+  scenario expected: 43.197
+  scenario expected: 47.909
+  scenario expected: 45.558
+  scenario expected: 44.755
+  scenario expected: 45.853
+  scenario expected: 47.887
+  scenario expected: 49.518
+  scenario expected: 44.332
+                avg: 45.173
+
+solution 17
+MIP 66     expected: 30.78
+  scenario expected: 48.659
+  scenario expected: 47.733
+  scenario expected: 42.290
+  scenario expected: 46.358
+  scenario expected: 43.964
+  scenario expected: 46.176
+  scenario expected: 41.871
+  scenario expected: 48.910
+  scenario expected: 48.212
+  scenario expected: 44.370
+  scenario expected: 44.242
+  scenario expected: 38.424
+  scenario expected: 43.691
+  scenario expected: 44.343
+  scenario expected: 40.364
+  scenario expected: 45.982
+  scenario expected: 42.589
+  scenario expected: 46.582
+  scenario expected: 44.152
+  scenario expected: 46.773
+  scenario expected: 43.539
+  scenario expected: 43.486
+  scenario expected: 45.548
+  scenario expected: 47.240
+  scenario expected: 45.396
+  scenario expected: 41.446
+  scenario expected: 45.209
+  scenario expected: 43.822
+  scenario expected: 46.717
+  scenario expected: 46.468
+  scenario expected: 44.455
+  scenario expected: 46.042
+  scenario expected: 41.832
+  scenario expected: 44.202
+  scenario expected: 42.573
+  scenario expected: 47.168
+  scenario expected: 42.712
+  scenario expected: 45.208
+  scenario expected: 48.758
+  scenario expected: 48.321
+  scenario expected: 42.058
+  scenario expected: 44.981
+  scenario expected: 47.473
+  scenario expected: 44.110
+  scenario expected: 45.175
+  scenario expected: 43.623
+  scenario expected: 42.684
+  scenario expected: 44.891
+  scenario expected: 43.271
+  scenario expected: 45.291
+  scenario expected: 47.899
+  scenario expected: 44.474
+  scenario expected: 46.018
+  scenario expected: 46.002
+  scenario expected: 44.269
+  scenario expected: 47.374
+  scenario expected: 43.330
+  scenario expected: 45.522
+  scenario expected: 43.748
+  scenario expected: 42.308
+  scenario expected: 43.934
+  scenario expected: 45.525
+  scenario expected: 47.755
+  scenario expected: 43.684
+  scenario expected: 41.980
+  scenario expected: 43.507
+  scenario expected: 41.127
+  scenario expected: 41.330
+  scenario expected: 47.983
+  scenario expected: 40.633
+  scenario expected: 50.754
+  scenario expected: 47.679
+  scenario expected: 43.756
+  scenario expected: 41.819
+  scenario expected: 45.435
+  scenario expected: 43.972
+  scenario expected: 45.764
+  scenario expected: 44.628
+  scenario expected: 42.425
+  scenario expected: 44.150
+  scenario expected: 42.652
+  scenario expected: 43.485
+  scenario expected: 41.577
+  scenario expected: 43.279
+  scenario expected: 40.947
+  scenario expected: 43.297
+  scenario expected: 44.977
+  scenario expected: 45.828
+  scenario expected: 45.830
+  scenario expected: 44.936
+  scenario expected: 43.584
+  scenario expected: 44.907
+  scenario expected: 44.060
+  scenario expected: 43.992
+  scenario expected: 42.307
+  scenario expected: 46.618
+  scenario expected: 45.004
+  scenario expected: 44.844
+  scenario expected: 43.592
+  scenario expected: 44.128
+                avg: 44.580
+
+solution 18
+MIP 66     expected: 30.46
+  scenario expected: 43.466
+  scenario expected: 47.272
+  scenario expected: 43.709
+  scenario expected: 48.101
+  scenario expected: 44.716
+  scenario expected: 47.430
+  scenario expected: 44.183
+  scenario expected: 48.182
+  scenario expected: 46.455
+  scenario expected: 47.915
+  scenario expected: 50.019
+  scenario expected: 43.356
+  scenario expected: 43.678
+  scenario expected: 46.809
+  scenario expected: 42.292
+  scenario expected: 45.364
+  scenario expected: 48.274
+  scenario expected: 43.830
+  scenario expected: 43.142
+  scenario expected: 43.733
+  scenario expected: 43.744
+  scenario expected: 39.569
+  scenario expected: 47.813
+  scenario expected: 42.447
+  scenario expected: 42.286
+  scenario expected: 43.117
+  scenario expected: 44.220
+  scenario expected: 45.497
+  scenario expected: 46.432
+  scenario expected: 44.521
+  scenario expected: 47.016
+  scenario expected: 47.654
+  scenario expected: 45.036
+  scenario expected: 43.716
+  scenario expected: 42.553
+  scenario expected: 44.243
+  scenario expected: 43.348
+  scenario expected: 43.237
+  scenario expected: 42.620
+  scenario expected: 43.993
+  scenario expected: 47.009
+  scenario expected: 41.224
+  scenario expected: 43.974
+  scenario expected: 45.538
+  scenario expected: 44.883
+  scenario expected: 40.624
+  scenario expected: 45.884
+  scenario expected: 47.738
+  scenario expected: 46.124
+  scenario expected: 40.884
+  scenario expected: 43.367
+  scenario expected: 47.822
+  scenario expected: 45.964
+  scenario expected: 46.888
+  scenario expected: 45.371
+  scenario expected: 41.107
+  scenario expected: 47.291
+  scenario expected: 41.792
+  scenario expected: 45.883
+  scenario expected: 42.842
+  scenario expected: 46.668
+  scenario expected: 46.355
+  scenario expected: 45.818
+  scenario expected: 46.871
+  scenario expected: 45.161
+  scenario expected: 45.404
+  scenario expected: 40.822
+  scenario expected: 42.692
+  scenario expected: 48.277
+  scenario expected: 39.576
+  scenario expected: 45.394
+  scenario expected: 46.200
+  scenario expected: 42.971
+  scenario expected: 46.024
+  scenario expected: 44.895
+  scenario expected: 46.408
+  scenario expected: 47.297
+  scenario expected: 46.059
+  scenario expected: 42.043
+  scenario expected: 43.121
+  scenario expected: 48.058
+  scenario expected: 45.421
+  scenario expected: 45.541
+  scenario expected: 45.241
+  scenario expected: 47.382
+  scenario expected: 45.142
+  scenario expected: 45.380
+  scenario expected: 41.814
+  scenario expected: 44.067
+  scenario expected: 46.290
+  scenario expected: 47.389
+  scenario expected: 42.097
+  scenario expected: 45.491
+  scenario expected: 47.758
+  scenario expected: 49.780
+  scenario expected: 48.290
+  scenario expected: 42.774
+  scenario expected: 45.195
+  scenario expected: 44.497
+  scenario expected: 45.521
+                avg: 44.984
+
+solution 19
+MIP 66     expected: 29.85
+  scenario expected: 40.619
+  scenario expected: 44.936
+  scenario expected: 43.429
+  scenario expected: 46.850
+  scenario expected: 46.011
+  scenario expected: 44.033
+  scenario expected: 41.210
+  scenario expected: 43.868
+  scenario expected: 43.456
+  scenario expected: 47.551
+  scenario expected: 42.930
+  scenario expected: 45.381
+  scenario expected: 43.409
+  scenario expected: 45.491
+  scenario expected: 45.216
+  scenario expected: 42.922
+  scenario expected: 41.762
+  scenario expected: 44.128
+  scenario expected: 42.661
+  scenario expected: 42.754
+  scenario expected: 40.763
+  scenario expected: 42.290
+  scenario expected: 43.127
+  scenario expected: 41.341
+  scenario expected: 47.224
+  scenario expected: 40.465
+  scenario expected: 40.744
+  scenario expected: 42.960
+  scenario expected: 40.536
+  scenario expected: 42.592
+  scenario expected: 45.661
+  scenario expected: 45.014
+  scenario expected: 41.465
+  scenario expected: 42.331
+  scenario expected: 47.802
+  scenario expected: 44.506
+  scenario expected: 43.555
+  scenario expected: 44.672
+  scenario expected: 48.122
+  scenario expected: 40.510
+  scenario expected: 44.938
+  scenario expected: 44.986
+  scenario expected: 41.755
+  scenario expected: 44.759
+  scenario expected: 46.172
+  scenario expected: 44.040
+  scenario expected: 45.617
+  scenario expected: 42.799
+  scenario expected: 42.184
+  scenario expected: 44.356
+  scenario expected: 43.386
+  scenario expected: 44.295
+  scenario expected: 44.158
+  scenario expected: 42.932
+  scenario expected: 45.921
+  scenario expected: 41.798
+  scenario expected: 44.248
+  scenario expected: 42.746
+  scenario expected: 45.301
+  scenario expected: 41.567
+  scenario expected: 42.231
+  scenario expected: 44.686
+  scenario expected: 49.341
+  scenario expected: 42.590
+  scenario expected: 46.548
+  scenario expected: 47.165
+  scenario expected: 41.537
+  scenario expected: 43.578
+  scenario expected: 43.394
+  scenario expected: 44.832
+  scenario expected: 46.772
+  scenario expected: 41.064
+  scenario expected: 44.930
+  scenario expected: 41.742
+  scenario expected: 46.960
+  scenario expected: 43.320
+  scenario expected: 44.260
+  scenario expected: 42.413
+  scenario expected: 44.016
+  scenario expected: 41.504
+  scenario expected: 46.325
+  scenario expected: 46.794
+  scenario expected: 45.205
+  scenario expected: 44.119
+  scenario expected: 44.106
+  scenario expected: 43.846
+  scenario expected: 46.934
+  scenario expected: 43.473
+  scenario expected: 44.786
+  scenario expected: 41.733
+  scenario expected: 48.005
+  scenario expected: 43.335
+  scenario expected: 44.157
+  scenario expected: 45.059
+  scenario expected: 40.797
+  scenario expected: 42.678
+  scenario expected: 41.087
+  scenario expected: 41.160
+  scenario expected: 43.999
+  scenario expected: 42.010
+                avg: 43.847
+
+solution 20
+MIP 66     expected: 30.61
+  scenario expected: 45.974
+  scenario expected: 45.427
+  scenario expected: 46.986
+  scenario expected: 43.029
+  scenario expected: 43.515
+  scenario expected: 43.691
+  scenario expected: 41.596
+  scenario expected: 42.429
+  scenario expected: 44.234
+  scenario expected: 44.432
+  scenario expected: 41.983
+  scenario expected: 42.255
+  scenario expected: 40.246
+  scenario expected: 46.024
+  scenario expected: 43.115
+  scenario expected: 50.121
+  scenario expected: 47.147
+  scenario expected: 43.638
+  scenario expected: 45.101
+  scenario expected: 40.634
+  scenario expected: 44.435
+  scenario expected: 45.032
+  scenario expected: 44.564
+  scenario expected: 43.622
+  scenario expected: 40.080
+  scenario expected: 46.008
+  scenario expected: 41.931
+  scenario expected: 44.989
+  scenario expected: 43.329
+  scenario expected: 45.529
+  scenario expected: 47.313
+  scenario expected: 45.571
+  scenario expected: 41.518
+  scenario expected: 50.186
+  scenario expected: 44.818
+  scenario expected: 44.723
+  scenario expected: 46.053
+  scenario expected: 46.356
+  scenario expected: 45.270
+  scenario expected: 43.442
+  scenario expected: 44.683
+  scenario expected: 45.545
+  scenario expected: 42.093
+  scenario expected: 44.399
+  scenario expected: 41.597
+  scenario expected: 46.999
+  scenario expected: 42.257
+  scenario expected: 43.893
+  scenario expected: 43.918
+  scenario expected: 41.269
+  scenario expected: 41.300
+  scenario expected: 47.869
+  scenario expected: 48.584
+  scenario expected: 47.232
+  scenario expected: 39.408
+  scenario expected: 42.044
+  scenario expected: 43.719
+  scenario expected: 47.412
+  scenario expected: 46.659
+  scenario expected: 44.285
+  scenario expected: 46.516
+  scenario expected: 41.280
+  scenario expected: 43.877
+  scenario expected: 43.660
+  scenario expected: 46.339
+  scenario expected: 40.756
+  scenario expected: 43.415
+  scenario expected: 41.870
+  scenario expected: 40.711
+  scenario expected: 44.566
+  scenario expected: 46.031
+  scenario expected: 43.227
+  scenario expected: 47.112
+  scenario expected: 45.890
+  scenario expected: 43.616
+  scenario expected: 45.222
+  scenario expected: 43.317
+  scenario expected: 44.361
+  scenario expected: 43.298
+  scenario expected: 42.863
+  scenario expected: 44.817
+  scenario expected: 41.586
+  scenario expected: 47.556
+  scenario expected: 46.983
+  scenario expected: 43.668
+  scenario expected: 44.853
+  scenario expected: 42.403
+  scenario expected: 49.942
+  scenario expected: 43.007
+  scenario expected: 44.494
+  scenario expected: 41.290
+  scenario expected: 43.225
+  scenario expected: 45.816
+  scenario expected: 41.298
+  scenario expected: 44.642
+  scenario expected: 43.758
+  scenario expected: 43.041
+  scenario expected: 42.063
+  scenario expected: 47.050
+  scenario expected: 44.867
+                avg: 44.258
+
+solution 21
+MIP 66     expected: 29.85
+  scenario expected: 42.693
+  scenario expected: 42.495
+  scenario expected: 44.516
+  scenario expected: 44.020
+  scenario expected: 44.832
+  scenario expected: 43.103
+  scenario expected: 45.563
+  scenario expected: 45.141
+  scenario expected: 41.993
+  scenario expected: 45.770
+  scenario expected: 46.840
+  scenario expected: 43.758
+  scenario expected: 45.199
+  scenario expected: 43.726
+  scenario expected: 43.547
+  scenario expected: 43.171
+  scenario expected: 45.976
+  scenario expected: 47.615
+  scenario expected: 43.467
+  scenario expected: 47.566
+  scenario expected: 42.058
+  scenario expected: 43.098
+  scenario expected: 43.704
+  scenario expected: 39.556
+  scenario expected: 45.987
+  scenario expected: 44.541
+  scenario expected: 43.109
+  scenario expected: 44.737
+  scenario expected: 47.319
+  scenario expected: 43.986
+  scenario expected: 45.515
+  scenario expected: 41.829
+  scenario expected: 42.436
+  scenario expected: 46.157
+  scenario expected: 42.462
+  scenario expected: 44.148
+  scenario expected: 42.976
+  scenario expected: 42.716
+  scenario expected: 42.575
+  scenario expected: 44.669
+  scenario expected: 47.482
+  scenario expected: 42.018
+  scenario expected: 45.209
+  scenario expected: 46.801
+  scenario expected: 46.486
+  scenario expected: 44.581
+  scenario expected: 39.031
+  scenario expected: 47.918
+  scenario expected: 44.549
+  scenario expected: 42.755
+  scenario expected: 46.313
+  scenario expected: 42.558
+  scenario expected: 44.320
+  scenario expected: 42.321
+  scenario expected: 42.784
+  scenario expected: 43.626
+  scenario expected: 44.696
+  scenario expected: 43.694
+  scenario expected: 42.337
+  scenario expected: 43.797
+  scenario expected: 42.412
+  scenario expected: 41.389
+  scenario expected: 42.266
+  scenario expected: 43.517
+  scenario expected: 45.117
+  scenario expected: 39.441
+  scenario expected: 43.576
+  scenario expected: 44.745
+  scenario expected: 43.765
+  scenario expected: 42.336
+  scenario expected: 47.922
+  scenario expected: 45.842
+  scenario expected: 44.923
+  scenario expected: 41.215
+  scenario expected: 42.672
+  scenario expected: 47.406
+  scenario expected: 45.075
+  scenario expected: 43.943
+  scenario expected: 43.431
+  scenario expected: 46.816
+  scenario expected: 43.948
+  scenario expected: 40.768
+  scenario expected: 46.407
+  scenario expected: 44.726
+  scenario expected: 43.001
+  scenario expected: 44.587
+  scenario expected: 44.669
+  scenario expected: 46.215
+  scenario expected: 42.272
+  scenario expected: 42.494
+  scenario expected: 46.030
+  scenario expected: 44.040
+  scenario expected: 41.209
+  scenario expected: 42.362
+  scenario expected: 41.016
+  scenario expected: 45.127
+  scenario expected: 44.075
+  scenario expected: 43.796
+  scenario expected: 49.911
+  scenario expected: 46.657
+                avg: 44.090
+
+solution 22
+MIP 66     expected: 28.63
+  scenario expected: 39.969
+  scenario expected: 40.649
+  scenario expected: 45.496
+  scenario expected: 42.095
+  scenario expected: 40.010
+  scenario expected: 42.896
+  scenario expected: 44.068
+  scenario expected: 42.105
+  scenario expected: 43.076
+  scenario expected: 43.361
+  scenario expected: 42.611
+  scenario expected: 43.579
+  scenario expected: 44.679
+  scenario expected: 43.676
+  scenario expected: 44.725
+  scenario expected: 44.671
+  scenario expected: 42.192
+  scenario expected: 42.560
+  scenario expected: 45.270
+  scenario expected: 39.495
+  scenario expected: 42.729
+  scenario expected: 42.711
+  scenario expected: 41.141
+  scenario expected: 44.978
+  scenario expected: 43.333
+  scenario expected: 40.741
+  scenario expected: 42.984
+  scenario expected: 40.643
+  scenario expected: 48.292
+  scenario expected: 45.491
+  scenario expected: 41.639
+  scenario expected: 45.397
+  scenario expected: 44.777
+  scenario expected: 41.936
+  scenario expected: 44.105
+  scenario expected: 43.190
+  scenario expected: 39.427
+  scenario expected: 45.928
+  scenario expected: 42.408
+  scenario expected: 39.872
+  scenario expected: 45.876
+  scenario expected: 44.523
+  scenario expected: 41.386
+  scenario expected: 45.451
+  scenario expected: 40.805
+  scenario expected: 37.418
+  scenario expected: 42.429
+  scenario expected: 49.602
+  scenario expected: 38.949
+  scenario expected: 45.277
+  scenario expected: 42.082
+  scenario expected: 43.024
+  scenario expected: 38.680
+  scenario expected: 46.109
+  scenario expected: 42.981
+  scenario expected: 46.813
+                avg: 24.103
+
+solution 23
+MIP 66     expected: 28.63
+                avg:  0.000
+
+solution 24
+MIP 66     expected: 29.39
+                avg:  0.000
+
+solution 25
+MIP 66     expected: 28.63
+                avg:  0.000
+
+solution 26
+MIP 66     expected: 28.63
+                avg:  0.000
+
+solution 27
+MIP 66     expected: 28.63
+                avg:  0.000
+
+solution 28
+MIP 66     expected: 28.49
+                avg:  0.000
+
+solution 29
+MIP 66     expected: 28.63
+                avg:  0.000
+
+solution 30
+MIP 66     expected: 28.63
+                avg:  0.000
+
+solution 31
+MIP 66     expected: 28.63
+                avg:  0.000
+
+solution 32
+MIP 66     expected: 29.51
+                avg:  0.000
+
+solution 33
+MIP 66     expected: 28.14
+                avg:  0.000
+
+solution 34
+MIP 66     expected: 27.22
+                avg:  0.000
+
+solution 35
+MIP 66     expected: 26.07
+                avg:  0.000
+
+solution 36
+MIP 66     expected: 26.83
+                avg:  0.000
+
+solution 37
+MIP 66     expected: 27.69
+                avg:  0.000
+
+solution 38
+MIP 66     expected: 27.13
+                avg:  0.000
+
+solution 39
+MIP 66     expected: 26.07
+                avg:  0.000
+
+solution 40
+MIP 66     expected: 26.83
+                avg:  0.000
+
+solution 41
+MIP 66     expected: 26.15
+                avg:  0.000
+
+solution 42
+MIP 66     expected: 27.60
+                avg:  0.000
+
+solution 43
+MIP 66     expected: 28.69
+                avg:  0.000
+
+solution 44
+MIP 66     expected: 26.08
+                avg:  0.000
+
+solution 45
+MIP 66     expected: 26.08
+                avg:  0.000
+
+solution 46
+MIP 66     expected: 28.42
+                avg:  0.000
+
+solution 47
+MIP 66     expected: 26.76
+                avg:  0.000
+
+solution 48
+MIP 66     expected: 26.76
+                avg:  0.000
+
+solution 49
+MIP 66     expected: 27.41
+                avg:  0.000
+
+solution 50
+MIP 66     expected: 27.05
+                avg:  0.000
+
+solution 51
+MIP 66     expected: 27.05
+                avg:  0.000
+
+solution 52
+MIP 66     expected: 24.93
+                avg:  0.000
+
+solution 53
+MIP 66     expected: 24.93
+                avg:  0.000
+
+solution 54
+MIP 66     expected: 24.93
+                avg:  0.000
+
+solution 55
+MIP 66     expected: 24.93
+                avg:  0.000
+
+solution 56
+MIP 66     expected: 24.93
+                avg:  0.000
+
+solution 57
+MIP 66     expected: 24.93
+                avg:  0.000
+
+solution 58
+MIP 66     expected: 24.93
+                avg:  0.000
+
+solution 59
+MIP 66     expected: 24.16
+                avg:  0.000
+
+solution 60
+MIP 66     expected: 24.65
+                avg:  0.000
+
+solution 61
+MIP 66     expected: 22.66
+                avg:  0.000
+
+solution 62
+MIP 66     expected: 25.01
+                avg:  0.000
+
+solution 63
+MIP 66     expected: 31.30
+                avg:  0.000
+
+solution 64
+MIP 66     expected: 24.75
+                avg:  0.000
+
+solution 65
+MIP 66     expected: 23.60
+                avg:  0.000
+
+solution 66
+MIP 66     expected: 26.93
+                avg:  0.000
+
+solution 67
+MIP 66     expected: 25.00
+                avg:  0.000
+
+solution 68
+MIP 66     expected: 32.05
+                avg:  0.000
+
+solution 69
+MIP 66     expected: 26.89
+                avg:  0.000
+
+solution 70
+MIP 66     expected: 25.55
+                avg:  0.000
+
+solution 71
+MIP 66     expected: 26.31
+                avg:  0.000
+
+solution 72
+MIP 66     expected: 26.86
+                avg:  0.000
+
+solution 73
+MIP 66     expected: 26.86
+                avg:  0.000
+
+solution 74
+MIP 66     expected: 27.50
+                avg:  0.000
+
+solution 75
+MIP 66     expected: 26.86
+                avg:  0.000
+
+solution 76
+MIP 66     expected: 26.86
+                avg:  0.000
+
+solution 77
+MIP 66     expected: 26.86
+                avg:  0.000
+
+solution 78
+MIP 66     expected: 26.86
+                avg:  0.000
+
+solution 79
+MIP 66     expected: 26.86
+                avg:  0.000
+
+solution 80
+MIP 66     expected: 26.86
+                avg:  0.000
+
+solution 81
+MIP 66     expected: 26.86
+                avg:  0.000
+
+solution 82
+MIP 66     expected: 26.86
+                avg:  0.000
+
+solution 83
+MIP 66     expected: 26.86
+                avg:  0.000
+
+solution 84
+MIP 66     expected: 26.86
+                avg:  0.000
+
+solution 85
+MIP 66     expected: 26.86
+                avg:  0.000
+
+solution 86
+MIP 66     expected: 26.86
+                avg:  0.000
+
+solution 87
+MIP 66     expected: 26.86
+                avg:  0.000
+
+solution 88
+MIP 66     expected: 26.86
+                avg:  0.000
+
+solution 89
+MIP 66     expected: 26.86
+                avg:  0.000
+
+solution 90
+MIP 66     expected: 25.92
+                avg:  0.000
+
+solution 91
+MIP 66     expected: 25.92
+                avg:  0.000
+
+solution 92
+MIP 66     expected: 25.92
+                avg:  0.000
+
+solution 93
+MIP 66     expected: 26.86
+                avg:  0.000
+
+solution 94
+MIP 66     expected: 25.92
+                avg:  0.000
+
+solution 95
+MIP 66     expected: 25.92
+                avg:  0.000
+
+solution 96
+MIP 66     expected: 26.86
+                avg:  0.000
+
+solution 97
+MIP 66     expected: 26.86
+                avg:  0.000
+
+solution 98
+MIP 66     expected: 26.86
+                avg:  0.000
+
+solution 99
+MIP 66     expected: 26.86
+                avg:  0.000
+
+mean expected: 27.69329875000001
+
+cycle count: 27518
+best solution: 45.855028166296634

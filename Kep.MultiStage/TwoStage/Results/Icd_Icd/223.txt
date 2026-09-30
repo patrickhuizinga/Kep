@@ -1,0 +1,35 @@
+
+10*10*10
+seed   obj.   time
+ 42   32.51    6 s
+ 43   36.17   17 s
+ 44   33.29   13 s
+ 45   27.61   14 s
+ 46   45.72    6 s
+ 47   26.12   12 s
+ 48   42.51    5 s
+ 49   31.94    5 s
+ 50   27.37    6 s
+ 51   33.65   18 s
+     
+100*100*100
+seed 42 :  33.16  180 min  (sol  9)
+seed 43 :  
+seed 44 :  
+seed 45 :  
+seed 46 :  
+seed 47 :  
+seed 48 :  
+seed 49 :  
+seed 50 :  
+seed 51 :  
+seed 52 :  
+seed 53 :  
+seed 54 :  
+seed 55 :  
+seed 56 :  
+seed 57 :  
+seed 58 :  
+seed 59 :  
+seed 60 :  
+seed 61 :  

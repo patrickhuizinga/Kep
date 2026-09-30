@@ -6,7 +6,7 @@ namespace Kep.Runner;
 /// <summary>
 /// Represents the implementation of a KEP formulation.
 /// </summary>
-public abstract class GurobiFormulation
+public abstract class GurobiFormulation : IFormulation
 {
     /// <summary>
     /// (Attempts to) solves the specified KEP instance and returns the results.
@@ -22,7 +22,7 @@ public abstract class GurobiFormulation
         var runningTime = TimeSpan.FromSeconds(problem.Runtime);
 
         var objective = -problem.ObjVal;
-        var gap = problem.MIPGap;
+        var gap = objective == 0 ? 0 : problem.MIPGap;
         
         return new Result(objective, setupTime, runningTime, gap);
     }

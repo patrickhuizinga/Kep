@@ -6,6 +6,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kep.Runner", "Kep.Runner\Ke
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kep.Test", "Kep.Test\Kep.Test.csproj", "{03A242D3-2CB8-4CD5-97C1-0BA6E599E7EC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BranchAndBound", "BranchAndBound\BranchAndBound.csproj", "{3CCB3117-793F-48F5-9739-AAC480EE0292}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kep.MultiStage", "Kep.MultiStage\Kep.MultiStage.csproj", "{DEC626A4-B0B2-44FB-96B2-8CC0374D16CC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +28,13 @@ Global
 		{03A242D3-2CB8-4CD5-97C1-0BA6E599E7EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{03A242D3-2CB8-4CD5-97C1-0BA6E599E7EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{03A242D3-2CB8-4CD5-97C1-0BA6E599E7EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3CCB3117-793F-48F5-9739-AAC480EE0292}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CCB3117-793F-48F5-9739-AAC480EE0292}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CCB3117-793F-48F5-9739-AAC480EE0292}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CCB3117-793F-48F5-9739-AAC480EE0292}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DEC626A4-B0B2-44FB-96B2-8CC0374D16CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEC626A4-B0B2-44FB-96B2-8CC0374D16CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEC626A4-B0B2-44FB-96B2-8CC0374D16CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEC626A4-B0B2-44FB-96B2-8CC0374D16CC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

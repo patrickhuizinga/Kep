@@ -1,0 +1,12 @@
+
+10*10*100
+seed 42 : best solution:  26.92 (951   sec)
+seed 43 : best solution:  33.31 1466   sec)
+seed 44 : best solution:  34.37 (604   sec)
+seed 45 : best solution:  26.72 (709   sec)
+seed 46 : best solution:  43.78 (996   sec)
+seed 47 : best solution:  23.30 (554   sec)
+seed 48 : best solution:  38.83 1021   sec)
+seed 49 : best solution:  30.03 1085   sec)
+seed 50 : best solution:  25.85 (886   sec)
+seed 51 : best solution:  32.02 (624   sec)

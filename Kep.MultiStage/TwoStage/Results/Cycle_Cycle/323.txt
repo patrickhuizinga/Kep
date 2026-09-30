@@ -1,0 +1,155 @@
+
+ 10*10*10
+seed 42 : best solution:  32.10    5 sec
+seed 43 : best solution:  35.49    2 sec
+seed 44 : best solution:  34.66    2 sec
+seed 45 : best solution:  27.32    2 sec
+seed 46 : best solution:  45.52   58 sec
+seed 47 : best solution:  24.01    2 sec
+seed 48 : best solution:  41.65    2 sec
+seed 49 : best solution:  30.53    6 sec
+seed 50 : best solution:  28.25    2 sec
+seed 51 : best solution:  32.96    3 sec
+        
+ 10*10*100
+seed 42 : best solution:  33.16   25 sec
+seed 43 : best solution:  36.37   15 sec
+seed 44 : best solution:  35.14   13 sec
+seed 45 : best solution:  28.18   12 sec
+seed 46 : best solution:  46.69  672 sec
+seed 47 : best solution:  24.30   12 sec
+seed 48 : best solution:  41.98   14 sec
+seed 49 : best solution:  31.08   41 sec
+seed 50 : best solution:  28.95   39 sec
+seed 51 : best solution:  33.56   16 sec
+        
+ 100*100*100
+seed 42 : best solution:  33.56   44 min  (sol 27)
+seed 43 : best solution:  36.44  165 min  (sol  8)
+                                 120 min  (sol  8, reach 85.20)
+seed 44 : best solution:  35.71   20 min  (sol 83)
+seed 45 : best solution:  29.37   19 min  (sol 18)
+seed 46 : best solution:  45.86  180 min  (sol  9, reach 22.56)
+                                 120 min  (sol  9, reach 18.91)
+seed 47 : best solution:  25.95   22 min  (sol 62)
+seed 48 : best solution:  42.59   22 min  (sol 66)
+seed 49 : best solution:  32.43  150 min  (sol 90)
+                          31.90  120 min  (sol 64, reach 70.33)
+seed 50 : best solution:  28.78   21 min  (sol  8)
+seed 51 : best solution:  32.85   32 min  (sol 32)
+seed 52 : best solution:  47.82  180 min  (sol  1,  reach 2.60)
+                          47.53  120 min  (sol  0,  reach 1.73)
+seed 53 : best solution:  27.50   26 min  (sol 18)
+seed 54 : best solution:  38.78  113 min  (sol 92)
+seed 55 : best solution:  27.26   23 min  (sol 64)
+seed 56 : best solution:  35.14   81 min  (sol 62)
+seed 57 : best solution:  44.14   29 min  (sol 62)
+seed 58 : best solution:  38.84  180 min  (sol  2, reach 10.88)
+                                 120 min  (sol  2, reach  6.92)
+seed 59 : best solution:  33.41  180 min  (sol 16, reach 38.80)
+                                 120 min  (sol 16, reach 22.89)
+seed 60 : best solution:  28.96   49 min  (sol  7)
+seed 61 : best solution:  35.61   33 min  (sol  5)
+
+
+     sol    42      43       44       45       46*      47       48       49       50       51       52*      53       54       55       56       57       58*      59*      60       61
+sol   0   32.122  35.254   33.904   28.297   42.161   23.551   39.575   31.003   27.960   32.378   47.532   26.083   37.058   24.970   30.966   42.168            32.333   28.879   34.055
+sol   1           35.985                     42.494            39.719                              47.821            37.460   25.429   31.124                                       34.916
+sol   2   32.966                                               41.867                                       26.474            25.433   33.188                                       
+sol   3   33.332                    28.518   43.484   23.805   42.080                                                                           43.436
+sol   4           36.282            28.576   44.816                                                                  37.574                     43.887                              35.460
+sol   5   33.510                             45.155                                                                           25.484                                                35.615
+sol   6                                                                                           
+sol   7                                                                          28.225                                       26.311                              32.517   28.962
+sol   8           36.436            28.636   45.411                              28.780                              37.713
+sol   9                                      45.855                                               
+sol  10                                                                                           
+sol  11                                                                                   32.827  
+sol  12                                                                                                                                                           32.620
+sol  13                             29.039                                                                                                                        32.800
+sol  14                                                                                                     26.578            26.615
+sol  15                                                                                                                                                           33.002
+sol  16                    34.215                                                                                             26.754                              33.409
+sol  17                    34.750                                                                                             26.949
+sol  18                             29.374                                                                  27.505            27.028
+sol  19                                                                                           
+sol  20                                                                 31.402                    
+sol  21                                                                 31.536                    
+sol  22                                                                                           
+sol  23                                                                                           
+sol  24                    34.851                                                                 
+sol  25                    35.130                                                                 
+sol  26                    35.321                     24.018                                      
+sol  27   33.557                                                                                  
+sol  28                                               24.560                                      
+sol  29                                               24.674                                                         38.027
+sol  30                                                                                           
+sol  31                                               24.686            31.594                    
+sol  32                                                                 31.676            32.850  
+sol  33                                                                                           
+sol  34                                                                                           
+sol  35                                               25.358                                      
+sol  36                                                                                           
+sol  37                                                        42.166                             
+sol  38                                                                                           
+sol  39                                                                                           
+sol  40                                                                                           
+sol  41                                                                                           
+sol  42                                                                                           
+sol  43                                                                                           
+sol  44                                                                                           
+sol  45                                                                                           
+sol  46                                                                                           
+sol  47                                                                 31.783                                                27.013
+sol  48                                                                                           
+sol  49                                                                                           
+sol  50                                                                                           
+sol  51                                                                                           
+sol  52                                                                                           
+sol  53                                                                                           
+sol  54                                                                                           
+sol  55                                                                                           
+sol  56                                                                                           
+sol  57                                               25.388                                      
+sol  58                                                                                                                                33.431
+sol  59                                               25.624                                                                           34.778
+sol  60                                                                                                                                35.138
+sol  61                                               25.746                                      
+sol  62                                               25.946                                                                                    44.143
+sol  63                                                                                                                       27.140
+sol  64                    35.498                              42.372   31.904                    
+sol  65                                                                                           
+sol  66                                                        42.590                             
+sol  67                                                                                           
+sol  68                                                                                           
+sol  69                                                                                           
+sol  70                                                                                           
+sol  71                                                                                           
+sol  72                                                                                           
+sol  73                                                                                           
+sol  74                                                                 32.026                    
+sol  75                                                                                           
+sol  76                                                                                           
+sol  77                                                                                           
+sol  78                                                                                                              38.342
+sol  79                                                                                                              38.489
+sol  80                                                                                           
+sol  81                                                                                                              38.658
+sol  82                                                                                           
+sol  83                    35.711                                                                 
+sol  84                                                                                           
+sol  85                                                                                           
+sol  86                                                                 32.311                    
+sol  87                                                                                           
+sol  88                                                                                           
+sol  89                                                                                           
+sol  90                                                                 32.425                    
+sol  91                                                                                           
+sol  92                                                                                                              38.779
+sol  93                                                                                           
+sol  94                                                                                           
+sol  95                                                                                           
+sol  96                                                                                           
+sol  97                                                                                           
+sol  98                                                                                           
+sol  99                                                                                           

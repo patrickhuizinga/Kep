@@ -27,6 +27,7 @@
 
     <ItemGroup>
       <ProjectReference Include="..\Kep.Explorer\Kep.Explorer.csproj" />
+      <ProjectReference Include="..\Kep.MultiStage\Kep.MultiStage.csproj" />
       <ProjectReference Include="..\Kep.Runner\Kep.Runner.csproj" />
     </ItemGroup>
 

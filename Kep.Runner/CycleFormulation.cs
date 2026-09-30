@@ -9,16 +9,28 @@ public class CycleFormulation(int k) : GurobiFormulation
 {
     protected override GRBModel CreateModel(GRBEnv env, bool[,] A, double[,] w)
     {
+        var cycles = GetAllCycles(A, k);
+        return CreateModel(env, cycles, w);
+    }
+
+    /// <summary>
+    /// Creates a new GRBModel for the cycle formulation.
+    /// </summary>
+    /// <remarks>
+    /// The formulation uses minimization over negative cycle weights. The final objective value will be negative.
+    /// </remarks>
+    public static GRBModel CreateModel(GRBEnv env, IEnumerable<int[]> cycles, double[,] arcWeights)
+    {
         var problem = new GRBModel(env);
         
-        var constraints = problem.AddConstrs(A.LengthI());
+        var constraints = problem.AddConstrs(arcWeights.LengthI());
         foreach (var constr in constraints)
         {
             constr.Sense = GRB.LESS_EQUAL;
             constr.RHS = 1;
         }
-        
-        foreach (var cycle in GetCycles(A))
+
+        foreach (var cycle in cycles)
         {
             var objectiveCoefficient = 0.0;
             var cycleConstraints = new GRBConstr[cycle.Length];
@@ -27,7 +39,7 @@ public class CycleFormulation(int k) : GurobiFormulation
             for (var i = 0; i < cycle.Length; i++)
             {
                 var node = cycle[i];
-                objectiveCoefficient -= w[prevNode, node];
+                objectiveCoefficient -= arcWeights[prevNode, node];
                 cycleConstraints[i] = constraints[node];
                 
                 prevNode = node;
@@ -39,7 +51,7 @@ public class CycleFormulation(int k) : GurobiFormulation
         return problem;
     }
 
-    private IEnumerable<int[]> GetCycles(bool[,] arcs)
+    public static IEnumerable<int[]> GetAllCycles(bool[,] arcs, int k)
     {
         return Enumerable.Range(0, arcs.LengthI())
             .SelectMany(i => GetCyclesUpTo(arcs, [i], k - 1));

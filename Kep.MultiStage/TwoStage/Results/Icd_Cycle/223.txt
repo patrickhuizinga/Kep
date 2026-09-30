@@ -1,0 +1,137 @@
+
+ 10*10*10
+seed 42 : best solution:  31.54    3 sec
+seed 43 : best solution:  35.89    2 sec
+seed 44 : best solution:  33.40    2 sec
+seed 45 : best solution:  27.28    2 sec
+seed 46 : best solution:  45.96    2 sec
+seed 47 : best solution:  25.80    1 sec
+seed 48 : best solution:  42.41    1 sec
+seed 49 : best solution:  31.48    2 sec
+seed 50 : best solution:  26.96    2 sec
+seed 51 : best solution:  33.67    2 sec
+     
+ 100*100*100
+seed 42 : best solution:  33.34   33 min  (sol 98)
+seed 43 : best solution:  35.76   25 min  (sol 65)
+seed 44 : best solution:  34.33   24 min  (sol 23)
+seed 45 : best solution:  28.80   20 min  (sol  2)
+seed 46 : best solution:  46.37   27 min  (sol 22)
+seed 47 : best solution:  26.10   18 min  (sol 12)
+seed 48 : best solution:  41.42   23 min  (sol  4)
+seed 49 : best solution:  31.78   31 min  (sol  7)
+seed 50 : best solution:  28.76   22 min  (sol 65)
+seed 51 : best solution:  32.36   23 min  (sol  0)
+seed 52 : best solution:  49.28   45 min  (sol 24)
+seed 53 : best solution:  27.11   28 min  (sol 43)
+seed 54 : best solution:  37.60   23 min  (sol 45)
+seed 55 : best solution:  27.20   22 min  (sol 19)
+seed 56 : best solution:  34.63   31 min  (sol 19)
+seed 57 : best solution:  42.38   32 min  (sol 78)
+seed 58 : best solution:  40.24   26 min  (sol 25)
+seed 59 : best solution:  34.13   29 min  (sol 56)
+seed 60 : best solution:  29.08   28 min  (sol 56)
+seed 61 : best solution:  34.21   32 min  (sol 75)
+
+
+sol    42       43       44       45       46       47       48       49       50       51       52       53       54       55       56       57       58       59       60       61
+ 0   30.763   34.551   33.286   26.989   42.694   25.547   40.166   31.196   25.657   32.356   47.991   26.411   36.309   26.359   32.917   40.488   37.994   32.634   26.600   32.093
+ 1   31.118                              44.168            40.995                                                                  33.890   41.226                     27.457   33.003
+ 2            35.518            28.805                                       26.288                              37.545                                       33.374   27.739
+ 3                     33.520                              41.079            28.117                                                         41.327                     27.926
+ 4   31.907                                                41.423                              48.762                              34.133            39.126
+ 5   32.170   35.546                                                                                                                                                   28.442
+ 6                                       46.037                                                                                                               33.490   28.899   33.086
+ 7                                                                  31.765                              26.565                                                33.686
+ 8                                                                                            
+ 9   33.077                                                                                   
+10                                                                                                      26.727                              41.383
+11   33.131                                                                                                                                 41.540
+12                     33.930                     26.097                                                  
+13            35.700                                                                                                                                 40.056
+14                                                                                            
+15                                                                                            
+16                                                                                            
+17                                                                                            
+18                                                                                                                        26.827
+19                                                                                                                        27.204   34.631
+20                                                                                            
+21                                                                                            
+22                                       46.372                                                           
+23                     34.072                                                                           27.086                                                                  33.414
+24                                                                                             49.280
+25                                                                                                                                          41.632   40.238
+26                                                                                                                                          41.681
+27                                                                                                                                                            34.002
+28                                                                                            
+29                                                                                            
+30            35.726                                                                                
+31                                                                           28.132                 
+32                                                                                            
+33                                                                                                                                          42.224
+34                                                                                            
+35                                                                                            
+36                                                                                            
+37                                                                                            
+38                                                                                            
+39                                                                                            
+40                                                                                            
+41                                                                                            
+42                                                                                            
+43                                                                                                      27.108
+44                                                                                            
+45                                                                                                               37.599
+46                                                                                                                                                            34.126
+47   33.226                                                                                                                 
+48                                                                                            
+49                                                                                            
+50                                                                                            
+51                                                                                            
+52                                                                                            
+53                                                                                            
+54                                                                                                                                                                              33.445
+55                                                                                            
+56                                                                                                                                                            34.132   29.083
+57                                                                                            
+58                                                                                                                
+59                                                                                                                
+60                                                                                                                
+61                                                                                            
+62                                                                                                                
+63                                                                                                                
+64                                                                                            
+65            35.761                                                         28.764                       
+66                                                                                            
+67                                                                                            
+68                                                                                            
+69                                                                                            
+70                                                                                            
+71                                                                                            
+72                                                                                            
+73                                                                                            
+74                                                                                            
+75                                                                                                                                                                              34.207
+76                                                                                            
+77                                                                                            
+78                                                                                                                                          42.380
+79                                                                                                              
+80                                                                                            
+81                                                                                                              
+82                                                                                            
+83                                                                                            
+84                                                                                            
+85                                                                                            
+86                                                                                            
+87                                                                                            
+88                                                                                            
+89                                                                                            
+90                                                                                            
+91                                                                                            
+92                                                                                                           
+93                                                                                            
+94                                                                                            
+95                                                                                            
+96                                                                                            
+97                                                                                            
+98   33.343                                                                                         
+99                                                                                            

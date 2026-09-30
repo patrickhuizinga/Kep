@@ -125,7 +125,7 @@ public static class Program
     /// Returns the implementation of <see cref="GurobiFormulation"/> that corresponds to the specified
     /// <paramref name="name"/>.
     /// </summary>
-    private static GurobiFormulation GetFormulation(string name, int k)
+    private static IFormulation GetFormulation(string name, int k)
     {
         return name switch
         {

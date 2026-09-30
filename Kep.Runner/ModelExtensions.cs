@@ -173,4 +173,10 @@ public static class ModelExtensions
         for (int j = 0; j < lengthJ; j++)
             model.AddConstr(left[i, j], sense, right[i, j], $"{name}[{i},{j}]");
     }
+    
+    public static double[] GetXValues(this GRBModel model) => model.Get(GRB.DoubleAttr.X, model.GetVars());
+    
+    public static double[] GetDuals(this GRBModel model) => model.Get(GRB.DoubleAttr.Pi, model.GetConstrs());
+    
+    public static double[] GetDuals(this GRBModel model, GRBConstr[] constraints) => model.Get(GRB.DoubleAttr.Pi, constraints);
 }

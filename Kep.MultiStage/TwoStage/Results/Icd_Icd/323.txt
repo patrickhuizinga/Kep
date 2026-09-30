@@ -1,0 +1,12 @@
+
+ 10*10*10
+seed 42 :  31.30  224 sec
+seed 43 :  35.92  329 sec
+seed 44 :  35.85  268 sec
+seed 45 :  29.09   70 sec
+seed 46 :  44.77  748 sec
+seed 47 :  25.53   53 sec
+seed 48 :  41.82  194 sec
+seed 49 :  32.47  166 sec
+seed 50 :  27.86  150 sec
+seed 51 :  32.17  194 sec
